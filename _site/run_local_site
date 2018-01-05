@@ -1,4 +1,0 @@
-#!/bin/bash --login
-
-rvm --default use 2.2.6
-bundle exec jekyll serve

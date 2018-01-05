@@ -6,7 +6,7 @@ layout: default
 [![](pics/rgate.png){:height="50px" width="50px"}](http://www.researchgate.net/profile/Ali_Aydogdu){:target="_blank_"}
 [![](pics/linkedin.png){:height="50px" width="50px"}](https://www.linkedin.com/in/ali-aydogdu-b83b8118/){:target="_blank_"}
 [![](pics/gscholar.png){:height="50px" width="50px"}](https://scholar.google.no/citations?user=zRGYaTsAAAAJ&hl=en){:target="_blank_"}
-[![](pics/github.png){:height="50px" width="50px"}](http://github.com/alileoalilei){:target="_blank_"}
+[![](pics/github.png){:height="50px" width="50px"}](http://github.com/aydogduali){:target="_blank_"}
 [![](pics/issue.png){:height="50px" width="50px"}](http://issuu.com/aydogdu){:target="_blank_"}
 [![](pics/pocket.png){:height="50px" width="50px"}](http://getpocket.com/@liaydogdu){:target="_blank_"}
 [![](pics/goodreads.png){:height="50px" width="50px"}](http://www.goodreads.com/user/show/52422236-ali-aydogdu){:target="_blank_"}
