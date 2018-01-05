@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+		<script> 
+		    $(function(){
+		     $("#header").load("header.html"); 
+		     $("#footer").load("footer.html"); 
+		    });
+		</script> 
+		<title>Main Page</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+
+	<body>
+			<div id="header"></div>
+			<img class="site-avatar" src="{{ "pics/chlo.jpg" | prepend: site.baseurl }}">
+
+			<div class="container"> 
+				<div class="blurb">
+				<h1>Welcome to my personal page</h1>
+				<p><em></em>  <a href="/about">Page is under construction...</a></p>
+				</div>
+			</div>
+
+			<div id="footer"></div>
+
+	</body>
+
+</html>

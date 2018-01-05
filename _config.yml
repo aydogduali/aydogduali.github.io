@@ -1,0 +1,8 @@
+title: Ali Aydoğdu' Home Page
+show_downloads: false
+google_analytics:
+theme: 
+permalink: /:categories/:title/
+project_page: true
+gems:
+  - jekyll-seo-tag

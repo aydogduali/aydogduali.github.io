@@ -1,0 +1,7 @@
+---
+layout: default
+title:  "new post"
+date:   2017-05-26 22:01:01 +0100
+categories: blog
+---
+deneme deneme
