@@ -2,7 +2,7 @@
 layout: default
 ---
 
--UNDER CONSTRUCTION
+STILL UNDER CONSTRUCTION !
 
 <ul>
   {% for post in site.posts %}
