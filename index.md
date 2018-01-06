@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: mainpage
 ---
 
 [![](pics/orcid.png){:height="50px" width="50px"}](http://orcid.org/0000-0002-1557-7502){:target="_blank_"}
