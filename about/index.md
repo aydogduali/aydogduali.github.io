@@ -9,4 +9,4 @@ media related to research using the links at the [home page](/index). You can
 find my current publication list [here](/about/publication).
 
 
-![](../pics/INO_FB001_2009_SAL.gif){:height="250px" width="600px"}
+![](../pics/INO_FB001_2009_SAL.gif){:height="714px" width="640px"}
