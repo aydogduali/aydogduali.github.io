@@ -10,3 +10,4 @@ find my current publication list [here](/about/publication).
 
 
 ![](../pics/INO_FB001_2009_SAL.gif){:height="714px" width="640px"}
+*This moves the error reduction in the salinity fields of the first 50 m after the assimilation of ferrybox observations compared to the simulation*
