@@ -10,4 +10,4 @@ find my current publication list [here](/about/publication).
 
 
 ![](../pics/INO_FB001_2009_SAL.gif){:height="714px" width="640px"}
-*This movie shows the error reduction in the salinity RMS of the first 50 m after the assimilation of synthetic ferrybox observations compared to the simulation*
+*This movie shows the error reduction in the salinity RMS of the first 50 m after assimilation (bottom) of synthetic ferrybox observations compared to assimilation-free simulation (bottom)*
