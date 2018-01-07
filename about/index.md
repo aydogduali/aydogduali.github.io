@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](../pics/wordcloud.png){:height="250px" width="600px"}
+![](../pics/wordcloud.png){:height="150px" width="640px"}
 
 This website serves me to keep track of my research and related activities. It
 is still underdevelopment. You can reach some of my public profiles in social
