@@ -39,7 +39,7 @@ layout: default
 <div style="float: left; clear: left">
 <iframe style="width:63px; height:70px;" src="//e.issuu.com/embed.html#8893677/57614058" frameborder="0" allowfullscreen></iframe>
 </div>
-COS-TT GODAE Oceanview Workshop. February 4-7, 2013. Lecce, Italy. Organized by CMCC-Italy. Talk on **Recent Performance of the Northern Levantine Circulation Model (NLEV), Sea Level Calibration and Applications**
+COS-TT GODAE Oceanview Workshop. February 4-7, 2013. Lecce, Italy. Organized by CMCC-Italy. Talk on [**Recent Performance of the Northern Levantine Circulation Model (NLEV), Sea Level Calibration and Applications**](https://www.godae.org/~godae-data/OceanView/Events/COSS-TT-workshop-Feb-2013/presentations/1.5-2013_GODAE-OCEANVIEW_COOS-TT-Lecce.pdf)
 
 #### 2011
 
