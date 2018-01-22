@@ -4,7 +4,7 @@ layout: default
 
 ###  Upcoming Activities
 
-- [Arctic Frontiers 2018](www.arcticfrontiers.com). January 21-25, 2018. Tromso, Norway. Talk on **Towards ensemble forecasting and data assimilation in the Arctic using a Lagrangian sea-ice model**
+- [Arctic Frontiers 2018](https://www.arcticfrontiers.com/program/session/?id=S023). January 21-25, 2018. Tromso, Norway. Talk on **Towards ensemble forecasting and data assimilation in the Arctic using a Lagrangian sea-ice model**
 
 ###  Past Activities
 
