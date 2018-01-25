@@ -8,7 +8,7 @@ layout: mainpage
 [![](pics/linkedin.png){:height="50px" width="50px"}](https://www.linkedin.com/in/ali-aydogdu-nersc){:target="_blank_"}
 [![](pics/twitter.png){:height="50px" width="50px"}](http://twitter.com/liaydogdu){:target="_blank_"}
 [![](pics/github.png){:height="50px" width="50px"}](http://github.com/aydogduali){:target="_blank_"}
-[![](pics/figshare.png){:height="50px" width="50px"}](https://figshare.com/authors/_/3861940){:target="_blank_"}
+[![](pics/figshare.png){:height="50px" width="50px"}](https://figshare.com/authors/Ali_Aydogdu/3861940){:target="_blank_"}
 [![](pics/pocket.png){:height="50px" width="50px"}](http://getpocket.com/@liaydogdu){:target="_blank_"}
 [![](pics/goodreads.png){:height="50px" width="50px"}](http://www.goodreads.com/user/show/52422236-ali-aydogdu){:target="_blank_"}
 <!---
