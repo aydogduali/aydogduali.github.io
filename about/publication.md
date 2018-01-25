@@ -34,7 +34,7 @@ Ensemble Data Assimilation for Large (Coupled) Geophysical Models. [AGU Meeting 
 
 
 <div style="float: left; clear: left">
-<iframe style="width:63px; height:70px;" src="//e.issuu.com/embed.html#8893677/56489504" frameborder="1" allowfullscreen></iframe> 
+<iframe src="https://widgets.figshare.com/articles/5738487/embed?show_title=1" width="500" height="400" frameborder="0"></iframe>
 </div>
 __Ali Aydoğdu__, Tim Hoar, Tomislava Vukicevic, Jeffrey Anderson, Alicia Karspeck, Gokhan Danabasoglu, Nadia Pinardi, Jonathan Hendricks, Nancy Collins, Francesca Macchia. Observing System Simulation Experiments in the Marmara Sea. [Numerical Modeling, Predictability and Data Assimilation in Weather, Ocean and Climate: A Symposium Honoring the Legacy of Anna Trevisan](http://www.isac.cnr.it/Anna-Trevisan-Memorial-Symposium). October 17-20, 2017. Bologna, Italy.
 
