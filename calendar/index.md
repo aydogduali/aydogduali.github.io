@@ -35,7 +35,10 @@ layout: default
 
 #### 2014
 
-- [7th EuroGOOS](http://eurogoos.eu/2014/07/21/7th-eurogoos-conference-programme-now) International Conference. 28-30 October 2014. Lisbon, Portugal. Talk on **Assimilation Experiments for the Fishery Observing System in the Adriatic Sea**
+<div style="float: left; clear: left">
+<iframe style="width:63px; height:70px;" src="//e.issuu.com/embed.html#8893677/57725961" frameborder="0" allowfullscreen></iframe>
+</div>
+ [7th EuroGOOS](http://eurogoos.eu/2014/07/21/7th-eurogoos-conference-programme-now) International Conference. 28-30 October 2014. Lisbon, Portugal. Talk on **Assimilation Experiments for the Fishery Observing System in the Adriatic Sea**
 
 #### 2013
 
