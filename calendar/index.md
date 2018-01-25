@@ -13,7 +13,7 @@ layout: default
 
 #### 2017
 <div style="float: left; clear: left">
-<iframe style="width:63px; height:70px;" src="//e.issuu.com/embed.html#8893677/57725449" frameborder="0" allowfullscreen></iframe>  
+<iframe src="https://widgets.figshare.com/articles/5821659/embed?show_title=0" width="63" height="70" frameborder="0"></iframe>
 </div>
 [8th International Workshop on Sea Ice Modelling, Data Assimilation and Verification](https://events.nersc.no/8th-international-workshop-sea-ice-modelling-data-assimilation-and-verification). November 1-3, 2017. Bergen, Norway. Talk on **Probabilistic forecast and data assimilation using Lagrangian adaptive mesh models**
 
