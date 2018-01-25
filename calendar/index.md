@@ -4,13 +4,16 @@ layout: default
 
 ###  Upcoming Activities
 
-- [Arctic Frontiers 2018](https://www.arcticfrontiers.com/program/session/?id=S023). January 21-25, 2018. Tromso, Norway. Talk on **Towards ensemble forecasting and data assimilation in the Arctic using a Lagrangian sea-ice model**
+<div style="float: left; clear: left">
+<iframe style="width:63px; height:70px;" src="//e.issuu.com/embed.html#8893677/57725618" frameborder="0" allowfullscreen></iframe>
+</div>
+[Arctic Frontiers 2018](https://www.arcticfrontiers.com/program/session/?id=S023). January 21-25, 2018. Tromso, Norway. Talk on **Towards ensemble forecasting and data assimilation in the Arctic using a Lagrangian sea-ice model**
 
 ###  Past Activities
 
 #### 2017
 <div style="float: left; clear: left">
-<iframe style="width:50px; height:38px;" src="//e.issuu.com/embed.html#8893677/57725449" frameborder="0" allowfullscreen></iframe>  
+<iframe style="width:63px; height:70px;" src="//e.issuu.com/embed.html#8893677/57725449" frameborder="0" allowfullscreen></iframe>  
 </div>
 [8th International Workshop on Sea Ice Modelling, Data Assimilation and Verification](https://events.nersc.no/8th-international-workshop-sea-ice-modelling-data-assimilation-and-verification). November 1-3, 2017. Bergen, Norway. Talk on **Probabilistic forecast and data assimilation using Lagrangian adaptive mesh models**
 
