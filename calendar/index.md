@@ -9,8 +9,10 @@ layout: default
 ###  Past Activities
 
 #### 2017
-
-- [8th International Workshop on Sea Ice Modelling, Data Assimilation and Verification](https://events.nersc.no/8th-international-workshop-sea-ice-modelling-data-assimilation-and-verification). November 1-3, 2017. Bergen, Norway. Talk on **Probabilistic forecast and data assimilation using Lagrangian adaptive mesh models**
+<div style="float: left; clear: left">
+<iframe style="width:50px; height:38px;" src="//e.issuu.com/embed.html#8893677/57725449" frameborder="0" allowfullscreen></iframe>  
+</div>
+[8th International Workshop on Sea Ice Modelling, Data Assimilation and Verification](https://events.nersc.no/8th-international-workshop-sea-ice-modelling-data-assimilation-and-verification). November 1-3, 2017. Bergen, Norway. Talk on **Probabilistic forecast and data assimilation using Lagrangian adaptive mesh models**
 
 - [Numerical Modeling, Predictability and Data Assimilation in Weather, Ocean and Climate: A Symposium Honoring the Legacy of Anna Trevisan](http://www.isac.cnr.it/Anna-Trevisan-Memorial-Symposium). October 17-20, 2017. Bologna, Italy. Presented posters titled as **Observing System Simulation Marmara Sea** and **Data Assimilation for Adaptive Moving Mesh Models**.
 
