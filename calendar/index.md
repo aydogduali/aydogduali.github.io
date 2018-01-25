@@ -14,6 +14,11 @@ layout: default
 </div>
 [Arctic Frontiers 2018](https://www.arcticfrontiers.com/program/session/?id=S023). January 21-25, 2018. Tromso, Norway. Talk on **Towards ensemble forecasting and data assimilation in the Arctic using a Lagrangian sea-ice model**
 
+<div style="float: left; clear: left">
+<iframe src="https://widgets.figshare.com/articles/5822082/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
+</div>
+Bjerknes Center for Climate Research Annual Meeting. January 8-10, 2018. Geilo, Norway. Poster presentation on **Ensemble Data Assimilation using Adaptive Moving Mesh**
+
 
 #### 2017
 <div style="float: left; clear: left">
