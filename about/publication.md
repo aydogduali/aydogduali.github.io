@@ -27,14 +27,14 @@ Ozsoy, E., Sofianos, S., Gertman, I., Mantziafou, A., __Aydoğdu, A.__, Georgiou
 ### Poster
 
 <div style="float: left; clear: left">
-<iframe src="https://widgets.figshare.com/articles/5821671/embed?show_title=0" width="63" height="70" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/5821671/embed?show_title=0" width="63" height="60" frameborder="0"></iframe>
 </div>
 T. Hoar, J. Anderson, N. Collins, H. Kershaw, J. Hendricks, K. Raeder, G. Romine, A. Mizzi, J. Barre, B. Gaubert, L. Madaus, __A. Aydogdu__, J. Raeder, H. Arango, A. Moore, C. Edwards, E. Curchitser, R. Escudier, R. Dussin, C. Bitz, Y. Zhang, and P. Shrestha. DART: A Community Facility Providing State-of-the-Art, Efficient
 Ensemble Data Assimilation for Large (Coupled) Geophysical Models. [AGU Meeting 2016](https://www.image.ucar.edu/pub/DART/2016/2016_AGU_DART_TJH.pdf)
 
 
 <div style="float: left; clear: left">
-<iframe src="https://widgets.figshare.com/articles/5738487/embed?show_title=0" width="63" height="70" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/5738487/embed?show_title=0" width="63" height="60" frameborder="0"></iframe>
 </div>
 __Ali Aydoğdu__, Tim Hoar, Tomislava Vukicevic, Jeffrey Anderson, Alicia Karspeck, Gokhan Danabasoglu, Nadia Pinardi, Jonathan Hendricks, Nancy Collins, Francesca Macchia. Observing System Simulation Experiments in the Marmara Sea. [Numerical Modeling, Predictability and Data Assimilation in Weather, Ocean and Climate: A Symposium Honoring the Legacy of Anna Trevisan](http://www.isac.cnr.it/Anna-Trevisan-Memorial-Symposium). October 17-20, 2017. Bologna, Italy.
 
