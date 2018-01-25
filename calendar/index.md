@@ -30,6 +30,7 @@ layout: default
 </div>
 EGU General Assembly. April 23-28, 2017. Vienna, Austria. Talk on [Numerical simulations of the Turkish Straits System for the 2008-2013 period](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-11612.pdf).
 
+
 #### 2016
 
 - 21st CESM workshop. June 20-23, 2016. Breckenridge, Colorado, USA.
