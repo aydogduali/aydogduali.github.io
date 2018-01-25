@@ -4,12 +4,16 @@ layout: default
 
 ###  Upcoming Activities
 
+- EGU General Assembly. April 8-13, 2018. Vienna, Austria.
+
+###  Past Activities
+
+#### 2018
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/5821668/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
 [Arctic Frontiers 2018](https://www.arcticfrontiers.com/program/session/?id=S023). January 21-25, 2018. Tromso, Norway. Talk on **Towards ensemble forecasting and data assimilation in the Arctic using a Lagrangian sea-ice model**
 
-###  Past Activities
 
 #### 2017
 <div style="float: left; clear: left">
