@@ -36,7 +36,7 @@ layout: default
 #### 2014
 
 <div style="float: left; clear: left">
-<iframe src="https://widgets.figshare.com/articles/5821602/embed?show_title=1" width="63" height="70" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/5821602/embed?show_title=0" width="63" height="70" frameborder="0"></iframe>
 </div>
  [7th EuroGOOS](http://eurogoos.eu/2014/07/21/7th-eurogoos-conference-programme-now) International Conference. 28-30 October 2014. Lisbon, Portugal. Talk on **Assimilation Experiments for the Fishery Observing System in the Adriatic Sea**
 
@@ -45,7 +45,7 @@ layout: default
 - Advanced School on Data Assimilation. June 24-28, 2013. Bologna, Italy. Organized by Centro Euro Mediterraneo sui Cambiamenti Climatici (CMCC) 
 
 <div style="float: left; clear: left">
-<iframe src="https://widgets.figshare.com/articles/5821635/embed?show_title=1" width="63" height="70" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/5821635/embed?show_title=0" width="63" height="70" frameborder="0"></iframe>
 </div>
 COS-TT GODAE Oceanview Workshop. February 4-7, 2013. Lecce, Italy. Organized by CMCC-Italy. Talk on [**Recent Performance of the Northern Levantine Circulation Model (NLEV), Sea Level Calibration and Applications**](https://www.godae.org/~godae-data/OceanView/Events/COSS-TT-workshop-Feb-2013/presentations/1.5-2013_GODAE-OCEANVIEW_COOS-TT-Lecce.pdf)
 
