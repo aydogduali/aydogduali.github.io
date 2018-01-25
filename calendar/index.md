@@ -45,7 +45,7 @@ layout: default
 - Advanced School on Data Assimilation. June 24-28, 2013. Bologna, Italy. Organized by Centro Euro Mediterraneo sui Cambiamenti Climatici (CMCC) 
 
 <div style="float: left; clear: left">
-<iframe style="width:63px; height:70px;" src="//e.issuu.com/embed.html#8893677/57614058" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://widgets.figshare.com/articles/5821635/embed?show_title=1" width="63" height="70" frameborder="0"></iframe>
 </div>
 COS-TT GODAE Oceanview Workshop. February 4-7, 2013. Lecce, Italy. Organized by CMCC-Italy. Talk on [**Recent Performance of the Northern Levantine Circulation Model (NLEV), Sea Level Calibration and Applications**](https://www.godae.org/~godae-data/OceanView/Events/COSS-TT-workshop-Feb-2013/presentations/1.5-2013_GODAE-OCEANVIEW_COOS-TT-Lecce.pdf)
 
