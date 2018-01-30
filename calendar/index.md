@@ -10,32 +10,32 @@ layout: default
 
 #### 2018
 <div style="float: left; clear: left">
-<iframe src="https://widgets.figshare.com/articles/5821668/embed?show_title=0" width="54" height="54" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/5821668/embed?show_title=0" width="55" height="55" frameborder="0"></iframe>
 </div>
 [Arctic Frontiers 2018](https://www.arcticfrontiers.com/program/session/?id=S023). January 21-25, 2018. Tromso, Norway. Talk on **Towards ensemble forecasting and data assimilation in the Arctic using a Lagrangian sea-ice model**
 
 <div style="float: left; clear: left">
-<iframe src="https://widgets.figshare.com/articles/5822082/embed?show_title=0" width="54" height="54" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/5822082/embed?show_title=0" width="55" height="55" frameborder="0"></iframe>
 </div>
 Bjerknes Center for Climate Research Annual Meeting. January 8-10, 2018. Geilo, Norway. Poster presentation on **Ensemble Data Assimilation using Adaptive Moving Mesh**
 
 
 #### 2017
 <div style="float: left; clear: left">
-<iframe src="https://widgets.figshare.com/articles/5821659/embed?show_title=0" width="54" height="54" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/5821659/embed?show_title=0" width="55" height="55" frameborder="0"></iframe>
 </div>
 [8th International Workshop on Sea Ice Modelling, Data Assimilation and Verification](https://events.nersc.no/8th-international-workshop-sea-ice-modelling-data-assimilation-and-verification). November 1-3, 2017. Bergen, Norway. Talk on **Probabilistic forecast and data assimilation using Lagrangian adaptive mesh models**
 
 
 <div style="float: left; clear: left">
-<iframe src="https://widgets.figshare.com/articles/5738487/embed?show_title=0" width="54" height="54" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/5738487/embed?show_title=0" width="55" height="55" frameborder="0"></iframe>
 </div>
 [Numerical Modeling, Predictability and Data Assimilation in Weather, Ocean and Climate: A Symposium Honoring the Legacy of Anna Trevisan](http://www.isac.cnr.it/Anna-Trevisan-Memorial-Symposium). October 17-20, 2017. Bologna, Italy. Presented posters titled as **Observing System Simulation Marmara Sea** and **Data Assimilation for Adaptive Moving Mesh Models**.
 
 - [8th EuroGOOS](http://eurogoos.imr.no) International Conference: Operational Oceanography serving sustainable marine development. October 3-5, 2017. Bergen, Norway.
 
 <div style="float: left; clear: left">
-<iframe src="https://widgets.figshare.com/articles/5822040/embed?show_title=0" width="54" height="54" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/5822040/embed?show_title=0" width="55" height="55" frameborder="0"></iframe>
 </div>
 EGU General Assembly. April 23-28, 2017. Vienna, Austria. Talk on [Numerical simulations of the Turkish Straits System for the 2008-2013 period](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-11612.pdf).
 
@@ -53,7 +53,7 @@ EGU General Assembly. April 23-28, 2017. Vienna, Austria. Talk on [Numerical sim
 #### 2014
 
 <div style="float: left; clear: left">
-<iframe src="https://widgets.figshare.com/articles/5821602/embed?show_title=0" width="54" height="54" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/5821602/embed?show_title=0" width="55" height="55" frameborder="0"></iframe>
 </div>
  [7th EuroGOOS](http://eurogoos.eu/2014/07/21/7th-eurogoos-conference-programme-now) International Conference. 28-30 October 2014. Lisbon, Portugal. Talk on **Assimilation Experiments for the Fishery Observing System in the Adriatic Sea**
 
@@ -62,7 +62,7 @@ EGU General Assembly. April 23-28, 2017. Vienna, Austria. Talk on [Numerical sim
 - Advanced School on Data Assimilation. June 24-28, 2013. Bologna, Italy. Organized by Centro Euro Mediterraneo sui Cambiamenti Climatici (CMCC) 
 
 <div style="float: left; clear: left">
-<iframe src="https://widgets.figshare.com/articles/5821635/embed?show_title=0" width="54" height="54" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/5821635/embed?show_title=0" width="55" height="55" frameborder="0"></iframe>
 </div>
 COS-TT GODAE Oceanview Workshop. February 4-7, 2013. Lecce, Italy. Organized by CMCC-Italy. Talk on [**Recent Performance of the Northern Levantine Circulation Model (NLEV), Sea Level Calibration and Applications**](https://www.godae.org/~godae-data/OceanView/Events/COSS-TT-workshop-Feb-2013/presentations/1.5-2013_GODAE-OCEANVIEW_COOS-TT-Lecce.pdf)
 
