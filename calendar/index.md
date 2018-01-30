@@ -37,7 +37,7 @@ Bjerknes Center for Climate Research Annual Meeting. January 8-10, 2018. Geilo, 
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/5822040/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
-EGU General Assembly. April 23-28, 2017. Vienna, Austria. Talk on [Numerical simulations of the Turkish Straits System for the 2008-2013 period](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-11612.pdf).\
+EGU General Assembly. April 23-28, 2017. Vienna, Austria. Talk on [Numerical simulations of the Turkish Straits System for the 2008-2013 period](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-11612.pdf).
 
 
 #### 2016
