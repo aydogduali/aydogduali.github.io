@@ -4,7 +4,7 @@ layout: default
 
 ###  Upcoming Activities
 
-- EGU General Assembly. April 8-13, 2018. Vienna, Austria.
+- [EGU General Assembly](https://egu2018.eu). April 8-13, 2018. Vienna, Austria.
 
     - *Observing System Simulation Experiments in the Marmara Sea*. EGU2018-550 OS4.1
 
