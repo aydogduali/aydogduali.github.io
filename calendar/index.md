@@ -6,15 +6,15 @@ layout: default
 
 - [EGU General Assembly](https://egu2018.eu). April 8-13, 2018. Vienna, Austria.
 
-    - *Observing System Simulation Experiments in the Marmara Sea*. EGU2018-550 OS4.1
-
     - *Ensemble Data Assimilation on Non-Conservative Adaptive Moving Mesh* EGU2018-4462 NP5.1
 
     - *Impact of rheology on probabilistic forecasts of sea ice trajectories: application for search and rescue operations in the Arctic* EGU2018-8320 CR6.1
 
-    - *Turkish Straits System (TSS) Forecasting System Development for the Black Sea Monitoring and Forecasting Center (BS-MFC) of the Copernicus Marine Environment and Monitoring Service (CMEMS)* EGU2018-12024 OS4.5
-
     - *Investigating Sea-bottom Cold Water Events in the Marmara* EGU2018-13097 OS2.2 
+
+    - *Observing System Simulation Experiments in the Marmara Sea*. EGU2018-550 OS4.1
+
+    - *Turkish Straits System (TSS) Forecasting System Development for the Black Sea Monitoring and Forecasting Center (BS-MFC) of the Copernicus Marine Environment and Monitoring Service (CMEMS)* EGU2018-12024 OS4.5
 
 ###  Past Activities
 
