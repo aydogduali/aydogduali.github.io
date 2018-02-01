@@ -5,8 +5,7 @@ layout: default
 
 This website serves me to keep track of my research and related activities. It
 is still underdevelopment. You can reach some of my public profiles in social
-media related to research using the links at the [home page](/index). You can
-find my current publication list [here](/about/publication).
+media related to research using the links at the [home page](/index).
 
 **Languages**
 
@@ -66,3 +65,4 @@ Turkish (native), English (fluent), Italian (basic level)
 
 2010 - Three days of field study in the Gulf of Mersin with R/V Bilim2
 
+[###Publications](/about/publication)
