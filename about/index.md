@@ -27,6 +27,8 @@ Turkish (native), English (fluent), Italian (basic level)
 - Research Assistant at IMS-METU SESAME project (2011-2012)
 - Research Assistant at IMS-METU MyOcean II project (2012-2013)
 - Research Assistant at CMCC in JERICO project (2013)
+- Visiting Researcher at CMCC OceanLab - Lecce (Oct 2015 - Feb 2016)
+- Visiting Researcher at NCAR - Boulder (Apr 2016 - Jun 2016)
 - Post Doctoral Researcher at CMCC (Sep 2016 - Jun 2017)
 - Post Doctoral Researcher at NERSC (Jun 2017 - present)
 
@@ -48,7 +50,7 @@ Turkish (native), English (fluent), Italian (basic level)
 
 **Field Research**
 
-2009 - Seven days of field study along Turkish coasts of the Aegean Sea and the Mediterranean with R/V Bilim2
-2010 - Seven days of field study in the Turkish Straits System with R/V Bilim2
-2010 - Three days of field study in the Gulf of Mersin with R/V Bilim2
+- 2009 - Seven days of field study along Turkish coasts of the Aegean Sea and the Mediterranean with R/V Bilim2
+- 2010 - Seven days of field study in the Turkish Straits System with R/V Bilim2
+- 2010 - Three days of field study in the Gulf of Mersin with R/V Bilim2
 
