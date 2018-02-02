@@ -2,7 +2,7 @@
 
 ### Articles under discussion
 
-- __Aydogdu, A.__, Pinardi, N., Ozsoy, E., Danabasoglu, G., Gürses O., and Karspeck, A.:*Circulation of the Turkish Straits System between 2008-2013 under complete atmospheric forcings*, Ocean Sci. Discuss., https://doi.org/10.5194/os-2018-7, doi:[10.5194/os-2018-7](https://doi.org/10.5194/os-2018-7), in review, 2018.
+- __Aydogdu, A.__, Pinardi, N., Ozsoy, E., Danabasoglu, G., Gürses O., and Karspeck, A. *Circulation of the Turkish Straits System between 2008-2013 under complete atmospheric forcings*, Ocean Sci. Discuss., https://doi.org/10.5194/os-2018-7, doi:[10.5194/os-2018-7](https://doi.org/10.5194/os-2018-7), in review, 2018.
 
 - __Aydogdu, A.__, Hoar, T. J., Vukicevic, T., Anderson, J. L., Pinardi, N., Karspeck, A., Hendricks, J., Collins, N., Macchia, F., and Ozsoy, E.: *OSSE for a sustainable marine observing network in the Marmara Sea*, Nonlin. Processes Geophys. Discuss., doi:[10.5194/npg-2017-74](https://doi.org/10.5194/npg-2017-74), in review, 2018. 
 
