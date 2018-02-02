@@ -4,6 +4,8 @@ layout: default
 
 ###  Upcoming Activities
 
+- [DARC meetings](http://www.met.reading.ac.uk/~darc/meetings). June 6, 2018. Reading, UK. TBA
+
 - [EGU General Assembly](https://egu2018.eu). April 8-13, 2018. Vienna, Austria.
 
     - *Ensemble Data Assimilation on Non-Conservative Adaptive Moving Mesh* EGU2018-4462 NP5.1
