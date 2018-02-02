@@ -9,7 +9,7 @@ media related to research using the links at the [home page](/index).
 
 **Languages**
 
-Turkish (native), English (fluent), Italian (basic level)
+Turkish (native), English (proficient), Italian (basic)
 
 **Education**
 
