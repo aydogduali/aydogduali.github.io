@@ -15,7 +15,7 @@
 ### Book Chapter
 
 <div style="float: left; clear: left">
-<iframe src="https://widgets.figshare.com/articles/5853585/embed?show_title=0" width="63px" height="70px" frameborder="0"></iframe>
+<iframe src="https://widgets.figshare.com/articles/5853585/embed?show_title=0" width="63px" height="60px" frameborder="0"></iframe>
 </div>
 Gürses, Ö., __Aydoğdu, A.__, Pinardi, N., and Özsoy, E. (2017). *A finite element modeling study of the Turkish Straits System*. In Öztürk, B. et al., editor, The Sea of Marmara - Marine Biodiversity, Fisheries, Conservations and Governance, pages 169 184. TUDAV Publication.
 
