@@ -6,6 +6,8 @@ layout: default
 
 - Data Assimilation Meetings at [DARC](http://www.met.reading.ac.uk/~darc/meetings). June 6, 2018. Reading, UK. TBA (invited speaker)
 
+- [EnKF workshop](http://www.iris.no/enkf/enkf-homepage). May 28-30, 2018. Bergen, Norway. Talk on **Ensemble Data Assimilation on Non­Conservative Adaptive Moving Mes**h.
+
 - [EGU General Assembly](https://egu2018.eu). April 8-13, 2018. Vienna, Austria.
 
     - *Ensemble Data Assimilation on Non-Conservative Adaptive Moving Mesh* EGU2018-4462 NP5.1
