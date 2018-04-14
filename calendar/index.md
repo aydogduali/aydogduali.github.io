@@ -7,6 +7,9 @@ layout: default
 - Data Assimilation Meetings at [DARC](http://www.met.reading.ac.uk/~darc/meetings). June 6, 2018. Reading, UK. TBA (invited speaker)
 
 - [EnKF workshop](http://www.iris.no/enkf/enkf-homepage). May 28-30, 2018. Bergen, Norway. Talk on **Ensemble Data Assimilation on Non­Conservative Adaptive Moving Mes**h.
+###  Past Activities
+
+#### 2018
 
 - [EGU General Assembly](https://egu2018.eu). April 8-13, 2018. Vienna, Austria.
 
@@ -14,15 +17,21 @@ layout: default
 
     - *Impact of rheology on probabilistic forecasts of sea ice trajectories: application for search and rescue operations in the Arctic* EGU2018-8320 CR6.1
 
+<div style="float: left; clear: left">
+<iframe src="https://widgets.figshare.com/articles/6133214/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
+</div>
     - *Investigating Sea-bottom Cold Water Events in the Marmara* EGU2018-13097 OS2.2 
 
+<div style="float: left; clear: left">
+<iframe src="https://widgets.figshare.com/articles/6133175/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
+</div>
     - *Observing System Simulation Experiments in the Marmara Sea*. EGU2018-550 OS4.1
 
+<div style="float: left; clear: left">
+<iframe src="https://widgets.figshare.com/articles/6133199/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
+</div>
     - *Turkish Straits System (TSS) Forecasting System Development for the Black Sea Monitoring and Forecasting Center (BS-MFC) of the Copernicus Marine Environment and Monitoring Service (CMEMS)* EGU2018-12024 OS4.5
 
-###  Past Activities
-
-#### 2018
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/5821668/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
