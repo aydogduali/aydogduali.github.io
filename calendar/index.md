@@ -20,17 +20,17 @@ layout: default
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/6133214/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
-    - *Investigating Sea-bottom Cold Water Events in the Marmara* EGU2018-13097 OS2.2 
+Investigating Sea-bottom Cold Water Events in the Marmara* EGU2018-13097 OS2.2 
 
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/6133175/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
-    - *Observing System Simulation Experiments in the Marmara Sea*. EGU2018-550 OS4.1
+Observing System Simulation Experiments in the Marmara Sea*. EGU2018-550 OS4.1
 
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/6133199/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
-    - *Turkish Straits System (TSS) Forecasting System Development for the Black Sea Monitoring and Forecasting Center (BS-MFC) of the Copernicus Marine Environment and Monitoring Service (CMEMS)* EGU2018-12024 OS4.5
+Turkish Straits System (TSS) Forecasting System Development for the Black Sea Monitoring and Forecasting Center (BS-MFC) of the Copernicus Marine Environment and Monitoring Service (CMEMS)* EGU2018-12024 OS4.5
 
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/5821668/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
