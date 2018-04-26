@@ -4,7 +4,9 @@ layout: default
 
 ###  Upcoming Activities
 
-- Data Assimilation Meetings at [DARC](http://www.met.reading.ac.uk/~darc/meetings). June 6, 2018. Reading, UK. TBA (invited speaker)
+- Data Assimilation Meetings at [DARC](http://www.met.reading.ac.uk/~darc/meetings). June 6, 2018. Reading, UK.
+
+- Workshop on *prediction and data assimilation for non-local diffusions*. June 4-5, 2018. , Edinburgh, UK.
 
 - [EnKF workshop](http://www.iris.no/enkf/enkf-homepage). May 28-30, 2018. Bergen, Norway. Talk on **Ensemble Data Assimilation on Non­Conservative Adaptive Moving Mes**h.
 ###  Past Activities
