@@ -8,7 +8,7 @@ layout: default
 
 - Workshop on [Prediction and Data Assimilation for Non-local Diffusions](https://www.macs.hw.ac.uk/~hg94/da18). June 4-5, 2018. Edinburgh, UK.
 
-- [EnKF workshop](https://www.iris.no/enkf/enkf-homepage). May 28-30, 2018. Bergen, Norway. Talk on **Ensemble Data Assimilation on Non­Conservative Adaptive Moving Mesh**
+- [EnKF workshop](https://www.iris.no/enkf/enkf-homepage). May 28-30, 2018. Bergen, Norway. Talk on **Ensemble Data Assimilation on a Non-Conservative Adaptive Moving Mesh**
 
 ###  Past Activities
 
