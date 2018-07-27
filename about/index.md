@@ -19,7 +19,7 @@ Turkish (native), English (proficient), Italian (basic)
 
 - Ph.D. Science and Management of Climate Change (Feb 2017) **Advanced Modeling and Data Assimilation Methods for the Design of Sustained Marine Monitoring Networks**. Universita Ca' Foscari Venezia & CMCC
 
-# **[Publications](/about/publication)**
+## **[Publications](/about/publication)**
 
 **Research Experience**
 
