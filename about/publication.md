@@ -4,9 +4,10 @@
 
 - __Aydogdu, A.__, Pinardi, N., Ozsoy, E., Danabasoglu, G., Gürses O., and Karspeck, A. *Circulation of the Turkish Straits System between 2008-2013 under complete atmospheric forcings*, Ocean Sci. Discuss., https://doi.org/10.5194/os-2018-7, doi:[10.5194/os-2018-7](https://doi.org/10.5194/os-2018-7), in review, 2018.
 
-- __Aydogdu, A.__, Hoar, T. J., Vukicevic, T., Anderson, J. L., Pinardi, N., Karspeck, A., Hendricks, J., Collins, N., Macchia, F., and Ozsoy, E.: *OSSE for a sustainable marine observing network in the Marmara Sea*, Nonlin. Processes Geophys. Discuss., doi:[10.5194/npg-2017-74](https://doi.org/10.5194/npg-2017-74), in review, 2018. 
 
 ### Peer Reviewed Article 
+
+- __Aydogdu, A.__, Hoar, T. J., Vukicevic, T., Anderson, J. L., Pinardi, N., Karspeck, A., Hendricks, J., Collins, N., Macchia, F., and Ozsoy, E.: *OSSE for a sustainable marine observing network in the Sea of Marmara*, Nonlin. Processes Geophys., 25, 537-551, doi:[10.5194/10.5194/npg-25-537-2018](https://doi.org/10.5194/npg-25-537-2018), 2018. 
 
 - __Aydogdu, A.__, Pinardi, N., Pistoia, J., Martinelli, M., Belardinelli, A., Sparnocchia, S., *Assimilation experiments for the Fishery Observing System in the Adriatic Sea*, Journal of Marine Systems, Volume 162, October 2016, Pages 126-136, ISSN 0924-7963, doi:[10.1016/j.jmarsys.2016.03.002](http://dx.doi.org/10.1016/j.jmarsys.2016.03.002)
 
