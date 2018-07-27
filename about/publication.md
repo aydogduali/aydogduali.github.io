@@ -7,7 +7,7 @@
 
 ### Peer Reviewed Article 
 
-- __Aydogdu, A.__, Hoar, T. J., Vukicevic, T., Anderson, J. L., Pinardi, N., Karspeck, A., Hendricks, J., Collins, N., Macchia, F., and Ozsoy, E.: *OSSE for a sustainable marine observing network in the Sea of Marmara*, Nonlin. Processes Geophys., 25, 537-551, doi:[10.5194/10.5194/npg-25-537-2018](https://doi.org/10.5194/npg-25-537-2018), 2018. 
+- __Aydogdu, A.__, Hoar, T. J., Vukicevic, T., Anderson, J. L., Pinardi, N., Karspeck, A., Hendricks, J., Collins, N., Macchia, F., and Ozsoy, E.: *OSSE for a sustainable marine observing network in the Sea of Marmara*, Nonlin. Processes Geophys., 25, 537-551, doi:[10.5194/npg-25-537-2018](https://doi.org/10.5194/npg-25-537-2018), 2018. 
 
 - __Aydogdu, A.__, Pinardi, N., Pistoia, J., Martinelli, M., Belardinelli, A., Sparnocchia, S., *Assimilation experiments for the Fishery Observing System in the Adriatic Sea*, Journal of Marine Systems, Volume 162, October 2016, Pages 126-136, ISSN 0924-7963, doi:[10.1016/j.jmarsys.2016.03.002](http://dx.doi.org/10.1016/j.jmarsys.2016.03.002)
 
