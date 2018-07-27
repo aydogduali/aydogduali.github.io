@@ -17,7 +17,7 @@
 
 Aydogdu, Ali. (2017). *Advanced modeling and data assimilation methods for the design of sustained marine monitoring networks* (Doctoral dissertation). Retrieved from [Venezia, Archivio Universita Ca' Foscari, Tesi Dottorato](http://dspace.unive.it/handle/10579/10343?show=full). (2016-12-12)
 
-Aydogdu, Ali. (2012). *A coupled modelling attempt of hydrodynamics and ecosystem of northern levantine basin* (Master Thesis). Retrieved from [METU Thesis Collection](http://library.metu.edu.tr/search~S15/a?Aydo{u011F}du+Ali)
+Aydogdu, Ali. (2012). *A coupled modelling attempt of hydrodynamics and ecosystem of northern levantine basin* (Master Thesis). Retrieved from [Ankara, METU Thesis Collection](http://library.metu.edu.tr/search~S15/a?Aydo{u011F}du+Ali)
 
 ### Book Chapter
 
