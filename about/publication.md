@@ -13,6 +13,10 @@
 
 - Sparnocchia, S., Nair, R., Petihakis, G., __Aydogdu, A.__, Dobricic, S., Farcy, P., Martinelli, M., Petersen, W., Petit de la Villeon, L., *An interlinked coastal observatory network for Europe* (2016) Journal of Operational Oceanography, Vol. 9, Iss. sup1, 2016. doi: [10.1080/1755876X.2015.1114808](http://dx.doi.org/10.1080/1755876X.2015.1114808)
 
+### Disertations 
+
+Aydogdu, Ali. (2017). Advanced modeling and data assimilation methods for the design of sustained marine monitoring networks (Doctoral dissertation). Retrieved from [Venezia, Archivio Universita Ca' Foscari, Tesi Dottorato](http://dspace.unive.it/handle/10579/10343?show=full). (2016-12-12)
+
 ### Book Chapter
 
 <div style="float: left; clear: left">
