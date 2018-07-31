@@ -46,6 +46,7 @@ Turkish Straits System (TSS) Forecasting System Development for the Black Sea Mo
 Bjerknes Center for Climate Research Annual Meeting. January 8-10, 2018. Geilo, Norway. Poster presentation on **Ensemble Data Assimilation using Adaptive Moving Mesh**
 
 
+<br/>
 #### 2017
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/5821659/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
@@ -70,12 +71,14 @@ EGU General Assembly. April 23-28, 2017. Vienna, Austria. Talk on [Numerical sim
 
 - 21st CESM workshop. June 20-23, 2016. Breckenridge, Colorado, USA.
 
+<br/>
 #### 2015
 
 - School on Ocean Climate Modelling: Physical and Biogeochemical Dynamics of Semi- Enclosed Seas September 28 - October 1, 2015. Ankara, Turkey. Organized by ICTP
 
 - [The 47th Liege Colloquium on Marine Environmental Monitoring, Modelling and Prediction](http://modb.oce.ulg.ac.be/colloquium/2015). May 4-8, 2015. Liege, Belgium. Talk on [Assimilation Experiments for the Fishery Observing System in the Adriatic Sea](https://www.researchgate.net/publication/276069664_Assimilation_Experiments_for_the_Fishery_Observing_System_in_the_Adriatic_Sea). (invited young scientist)
 
+<br/>
 #### 2014
 
 <div style="float: left; clear: left">
@@ -83,6 +86,7 @@ EGU General Assembly. April 23-28, 2017. Vienna, Austria. Talk on [Numerical sim
 </div>
  [7th EuroGOOS](http://eurogoos.eu/2014/07/21/7th-eurogoos-conference-programme-now) International Conference. 28-30 October 2014. Lisbon, Portugal. Talk on **Assimilation Experiments for the Fishery Observing System in the Adriatic Sea**
 
+<br/>
 #### 2013
 
 - Advanced School on Data Assimilation. June 24-28, 2013. Bologna, Italy. Organized by Centro Euro Mediterraneo sui Cambiamenti Climatici (CMCC) 
@@ -92,10 +96,12 @@ EGU General Assembly. April 23-28, 2017. Vienna, Austria. Talk on [Numerical sim
 </div>
 COS-TT GODAE Oceanview Workshop. February 4-7, 2013. Lecce, Italy. Organized by CMCC-Italy. Talk on [**Recent Performance of the Northern Levantine Circulation Model (NLEV), Sea Level Calibration and Applications**](https://www.godae.org/~godae-data/OceanView/Events/COSS-TT-workshop-Feb-2013/presentations/1.5-2013_GODAE-OCEANVIEW_COOS-TT-Lecce.pdf)
 
+<br/>
 #### 2011
 
 - Coastal Modeling Summer School. September 19-23, 2011. La Londe, France. Organized by University of Toulon
 
+<br/>
 #### 2010
 
 - Advanced School on Data Assimilation. June 7-11, 2010. Bologna, Italy. Organized by Centro Euro Mediterraneo sui Cambiamenti Climatici (CMCC) and Gruppo Nazionale di Oceanografia Operativa (GNOO) 
