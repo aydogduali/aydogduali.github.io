@@ -2,7 +2,7 @@
 
 ### Peer Reviewed Article 
 
-- __Aydoğdu, A.__, Pinardi, N., Özsoy, E., Danabasoglu, G., Gürses, Ö., and Karspeck, A.: Circulation of the Turkish Straits System under interannual atmospheric forcing, Ocean Sci., 14, 999-1019, https://doi.org/10.5194/os-14-999-2018, 2018.
+- __Aydoğdu, A.__, Pinardi, N., Özsoy, E., Danabasoglu, G., Gürses, Ö., and Karspeck, A.: Circulation of the Turkish Straits System under interannual atmospheric forcing, Ocean Sci., 14, 999-1019, doi:[10.5194/os-14-999-2018](https://doi.org/10.5194/os-14-999-2018), 2018.
 
 - __Aydoğdu, A.__, Hoar, T. J., Vukicevic, T., Anderson, J. L., Pinardi, N., Karspeck, A., Hendricks, J., Collins, N., Macchia, F., and Ozsoy, E.: *OSSE for a sustainable marine observing network in the Sea of Marmara*, Nonlin. Processes Geophys., 25, 537-551, doi:[10.5194/npg-25-537-2018](https://doi.org/10.5194/npg-25-537-2018), 2018. 
 
