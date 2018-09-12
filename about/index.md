@@ -23,30 +23,29 @@ Turkish (native), English (proficient), Italian (basic)
 
 **Research Experience**
 
-- Research Assistant at IMS-METU MyOcean project (2009-2011)
-- Research Assistant at IMS-METU SESAME project (2011-2012)
-- Research Assistant at IMS-METU MyOcean II project (2012-2013)
-- Research Assistant at CMCC JERICO project (2013)
-- Visiting Researcher at CMCC OceanLab - Lecce (Oct 2015 - Feb 2016)
-- Visiting Researcher at NCAR - Boulder (Apr 2016 - Jun 2016)
-- Post Doctoral Researcher at CMCC (Sep 2016 - Jun 2017)
 - Post Doctoral Researcher at NERSC (Jun 2017 - present)
+- Post Doctoral Researcher at CMCC (Sep 2016 - Jun 2017)
+- Visiting Researcher at NCAR - Boulder (Apr 2016 - Jun 2016)
+- Visiting Researcher at CMCC OceanLab - Lecce (Oct 2015 - Feb 2016)
+- Research Assistant at CMCC JERICO project (2013)
+- Research Assistant at IMS-METU MyOcean II project (2012-2013)
+- Research Assistant at IMS-METU SESAME project (2011-2012)
+- Research Assistant at IMS-METU MyOcean project (2009-2011)
 
 **Programming Skills**
 
 - Shell Scripting on Linux/Unix Environments
-- Scientific Programming with Fortran and Python
+- Scientific Programming in Fortran, Python, Matlab
 - Parallel Computing on HPCs
 - PyFerret & Generic Mapping Tools for Post-Processing and Visualization
 
 **Research Tools**
 
-- Regional Ocean Modeling System (ROMS)
-- Nucleus for European Modelling of the Ocean (NEMO)
-- Finite Element Sea-Ice Ocean Model (FESOM)
-- Data Assimilation Research Testbed (DART)
-- Ocean-Var Variational Data Assimilation Software
-- neXtSIM 
+- Regional Ocean Modeling System ([ROMS](https://www.myroms.org))
+- Nucleus for European Modelling of the Ocean ([NEMO](https://www.nemo-ocean.eu))
+- Finite Element Sea-Ice Ocean Model ([FESOM](https://fesom.de))
+- Data Assimilation Research Testbed ([DART](http://www.image.ucar.edu/DAReS/DART))
+- neXt Generation Sea Ice Model ([neXtSIM](https://www.nersc.no/group/sea-ice-modelling])
 
 **Field Research**
 
