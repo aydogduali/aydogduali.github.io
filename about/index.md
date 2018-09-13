@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![](../pics/wordcloud.png){:height="150px" width="640px"}
+![](../pics/wordcloud.png){:height="200px" width="640px"}
 
 A list of publications which I have contributed so far can be found **[here](/about/publication)**
 
