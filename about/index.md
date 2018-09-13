@@ -9,15 +9,15 @@ media related to research using the links at the [home page](/index).
 
 **Languages**
 
-Turkish (native), English (proficient), Italian (basic)
+Turkish, English, Italian
 
 **Education**
 
-- B.S. Mathematics (Jun 2009) Middle East Technical University
+- Ph.D. Science and Management of Climate Change (Feb 2017) **Advanced Modeling and Data Assimilation Methods for the Design of Sustained Marine Monitoring Networks**. Universita Ca' Foscari Venezia & CMCC. Supervisor: Nadia Pinardi
 
 - M.S. Physical Oceanography (Jul 2012) **A Coupled Modelling Attempt of Hydrodynamics and Ecosystem of the Northern Levantine Basin**. Institute of Marine Sciences, METU. Supervisor: Emin Özsoy
 
-- Ph.D. Science and Management of Climate Change (Feb 2017) **Advanced Modeling and Data Assimilation Methods for the Design of Sustained Marine Monitoring Networks**. Universita Ca' Foscari Venezia & CMCC. Supervisor: Nadia Pinardi
+- B.S. Mathematics (Jun 2009) Middle East Technical University
 
 ## **[Publications](/about/publication)**
 
@@ -35,9 +35,9 @@ Turkish (native), English (proficient), Italian (basic)
 **Programming Skills**
 
 - Shell Scripting on Linux/Unix Environments
-- Scientific Programming in Fortran, Python, Matlab
-- Parallel Computing on HPCs
-- PyFerret & Generic Mapping Tools for Post-Processing and Visualization
+- Scientific Programming: Fortran, Python, Matlab
+- Parallel Computing: openmp, mpi
+- Data analysis and visualization: Matlab, PyFerret, Generic Mapping Tools
 
 **Research Tools**
 
