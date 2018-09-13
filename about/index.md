@@ -3,9 +3,7 @@ layout: default
 ---
 ![](../pics/wordcloud.png){:height="150px" width="640px"}
 
-[Home Page](/index).
-
-### **[Publications](/about/publication)**
+An updated list of my publications can be found **[here](/about/publication)**
 
 **Languages**
 
