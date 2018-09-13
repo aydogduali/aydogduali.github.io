@@ -5,6 +5,8 @@ layout: default
 
 A list of publications which I have contributed so far can be found **[here](/about/publication)**
 
+A list of talks or poster presentations which I have given can be found **[here](/calendar/index)**
+
 **Languages**
 
 Turkish, English, Italian
