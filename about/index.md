@@ -34,10 +34,12 @@ Turkish, English, Italian
 
 **Programming Skills**
 
-- Shell Scripting on Linux/Unix Environments
+- Scripting on Linux/Unix Environments
 - Scientific Programming: Fortran, Python, Matlab
 - Parallel Computing: openmp, mpi
-- Data analysis and visualization: Matlab, PyFerret, Generic Mapping Tools
+- Data analysis and visualization: [Matlab](https://www.mathworks.com),
+  [PyFerret](https://ferret.pmel.noaa.gov/Ferret/documentation/pyferret),
+[GMT](http://gmt.soest.hawaii.edu)
 
 **Research Tools**
 
