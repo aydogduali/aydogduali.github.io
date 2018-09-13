@@ -51,7 +51,7 @@ Turkish, English, Italian
 
 **Field Research**
 
-- 2009 - Seven days of field study along Turkish coasts of the Aegean Sea and the Mediterranean with R/V Bilim2
 - 2010 - Seven days of field study in the Turkish Straits System with R/V Bilim2
 - 2010 - Three days of field study in the Gulf of Mersin with R/V Bilim2
+- 2009 - Seven days of field study along Turkish coasts of the Aegean Sea and the Mediterranean with R/V Bilim2
 
