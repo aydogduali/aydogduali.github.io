@@ -13,9 +13,9 @@ Turkish, English, Italian
 
 **Education**
 
-- Ph.D. Science and Management of Climate Change (Feb 2017) **Advanced Modeling and Data Assimilation Methods for the Design of Sustained Marine Monitoring Networks**. Universita Ca' Foscari Venezia & CMCC. Supervisor: Nadia Pinardi
+- Ph.D. Science and Management of Climate Change (Feb 2017) **Advanced Modeling and Data Assimilation Methods for the Design of Sustained Marine Monitoring Networks**. [Universita Ca' Foscari Venezia](https://unive.it) & [CMCC](https://cmcc.it). Supervisor: Nadia Pinardi
 
-- M.S. Physical Oceanography (Jul 2012) **A Coupled Modelling Attempt of Hydrodynamics and Ecosystem of the Northern Levantine Basin**. Institute of Marine Sciences, METU. Supervisor: Emin Özsoy
+- M.S. Physical Oceanography (Jul 2012) **A Coupled Modelling Attempt of Hydrodynamics and Ecosystem of the Northern Levantine Basin**. Institute of Marine Sciences, [METU](https://metu.edu.tr). Supervisor: Emin Özsoy
 
 - B.S. Mathematics (Jun 2009) Middle East Technical University
 
