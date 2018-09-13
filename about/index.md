@@ -3,9 +3,9 @@ layout: default
 ---
 ![](../pics/wordcloud.png){:height="150px" width="640px"}
 
-This website serves me to keep track of my research and related activities. It
-is still underdevelopment. You can reach some of my public profiles in social
-media related to research using the links at the [home page](/index).
+[Home Page](/index).
+
+### **[Publications](/about/publication)**
 
 **Languages**
 
@@ -18,8 +18,6 @@ Turkish, English, Italian
 - M.S. Physical Oceanography (Jul 2012) **A Coupled Modelling Attempt of Hydrodynamics and Ecosystem of the Northern Levantine Basin**. Institute of Marine Sciences, METU. Supervisor: Emin Özsoy
 
 - B.S. Mathematics (Jun 2009) Middle East Technical University
-
-## **[Publications](/about/publication)**
 
 **Research Experience**
 
