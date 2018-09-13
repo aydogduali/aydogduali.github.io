@@ -3,7 +3,7 @@ layout: default
 ---
 ![](../pics/wordcloud.png){:height="150px" width="640px"}
 
-An updated list of my publications can be found **[here](/about/publication)**
+An updated list of publications which I contributed can be found **[here](/about/publication)**
 
 **Languages**
 
