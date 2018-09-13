@@ -3,7 +3,7 @@ layout: default
 ---
 ![](../pics/wordcloud.png){:height="200px" width="640px"}
 
-A list of publications which I have contributed so far can be found **[here](/about/publication)**
+A list of publications which I have contributed can be found **[here](/about/publication)**
 
 A list of scientific activities which I'm involved can be found **[here](/calendar/index)**
 
