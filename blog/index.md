@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[180915](20180915_osse_marmara.md)
+[180915](_posts/20180915_osse_marmara.md)
 
 
 <ul>
