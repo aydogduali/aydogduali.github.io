@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[180915](20180915_osse_marmara.md)
+[Observing System Simulation Experiments in the Sea of Marmara](20180915_osse_marmara.md)
 
 
 <ul>
