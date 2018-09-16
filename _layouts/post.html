@@ -5,7 +5,7 @@
    div.main_page {
     background-color: black;
     color: black;
-    margin: 80px 100px 0 200px;
+    margin: 50px 50px 0 50px;
     padding: 20px;
     width: 600px;
     height: 400px;
@@ -16,7 +16,7 @@
     text-align: center;
     }
    #main_content {
-    text-align: center;
+    text-align: justify;
     }
    nav.main-nav {
     text-align: center;
@@ -41,8 +41,6 @@
         <header class="inner">
 <!--          <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a> -->
 
-          <a id="header_image" href="/"><IMG SRC="/pics/chlo.jpg" ALT="Turkish Straits System" WIDTH=600px HEIGHT=200px></a>
-          <h4 id="project_title">{{ site.title | default: site.github.repository_name }}</h4>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% if site.show_downloads %}
@@ -56,7 +54,9 @@
      <div class="container">
         <nav class="main-nav">
             <ul>
-               <a href="/about">About</a> <a href="/contact">Contact</a> <a href="/calendar">Agenda</a>  <a href="/blog">Blog</a>
+              <a href="/blog"><span style="color:green">Back to Blog</span></a>
+              <a> <span style="color:red"> | </span></a>
+              <a href="/"><span style="color:blue">Back to Home</span></a>
             </ul>
         </nav>
       </div>
@@ -74,7 +74,10 @@
       <footer class="inner">
         {% if site.github.is_project_page %}
 
-        <p class="copyright">Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p> 
+              <a href="/blog"><span style="color:green">Back to Blog</span></a>
+              <a> <span style="color:red"> | </span></a>
+              <a href="/"><span style="color:blue">Back to Home</span></a>
+
 
         {% endif %}
 

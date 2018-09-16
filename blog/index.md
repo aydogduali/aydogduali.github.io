@@ -2,13 +2,10 @@
 layout: default
 ---
 
-[<span style="color:red">20180915 - Observing System Simulation Experiments in the Sea of Marmara</span>](20180915_osse_marmara.md)
-
-
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}"><span style="color:red">{{ post.title }}</span></a>
     </li>
   {% endfor %}
 </ul>
