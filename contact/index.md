@@ -2,7 +2,7 @@
 layout: default 
 ---
 
-You can reach me from one of my social network accounts in the [Homepage](http://aydogduali.github.io).
+You can reach me from one of my social network accounts in the [Homepage](/).
 
 ### Postal Address
 
