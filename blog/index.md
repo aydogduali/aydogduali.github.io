@@ -1,5 +1,5 @@
 ---
-layout: twocolumn
+layout:default 
 title: deneme
 ---
 
