@@ -3,6 +3,26 @@ layout: twocolumn
 
 title: deneme
 ---
+ <h3>Research</h3>
+ <ul>
+   {% for post in site.posts %}
+     {% if post.category == 'outreach' %}
+       <a href="{{ post.url }}"><span style="color:black">{{ post.title }}</span></a>
+     {% endif %}
+   {% endfor %}
+ </ul>
+<p></p>
+
+ <h3>Scribbles</h3>
+ <ul>
+ {% for post in site.posts %}
+     {% if post.category == 'blog' %}
+       <a href="{{ post.url }}"><span style="color:black">{{ post.title }}</span></a>
+     {% endif %}
+   {% endfor %}
+ </ul>
+
+
 
 
 <!---
