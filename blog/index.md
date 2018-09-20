@@ -5,6 +5,24 @@ title: deneme
 
 
 
+<ul>
+{% for post in site.posts %}
+  {% if post.category == 'outreach' %}
+    <li>
+    <a href="{{ post.url }}"><span style="color:black">{{ post.title }}</span></a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+<ul>
+ {%for post in site.posts %}
+  {% if post.category == 'blog' %}
+    <li>
+    <a href="{{ post.url }}"><span style="color:black">{{ post.title }}</span></a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
 
 <!---
 <ul>
