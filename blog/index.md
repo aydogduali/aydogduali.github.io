@@ -3,23 +3,6 @@ layout: twocolumn
 title: deneme
 ---
 
-<div class="row">
-  <div class="column" style="background-color:#aba;"><h3>Research</h3>
-   {% for post in site.posts %}
-     {% if post.category == 'outreach' %}
-       <a href="{{ post.url }}"><span style="color:black">{{ post.title }}</span></a>
-     {% endif %}
-   {% endfor %}
- </div>
- <div class="column" style="background-color:#cbc;"><h3>Scribbles</h3>
- {% for post in site.posts %}
-     {% if post.category == 'blog' %}
-       <a href="{{ post.url }}"><span style="color:black">{{ post.title }}</span></a>
-     {% endif %}
-   {% endfor %}
- </div>
-</div>
-
 
 
 
