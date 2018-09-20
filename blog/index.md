@@ -15,7 +15,6 @@ title: deneme
      {% endif %}
    {% endfor %}
  </ul>
-<p></p>
  </div>
  <div class="column" style="background-color:#cbc;">
  <h3>Scribbles</h3>
