@@ -3,6 +3,10 @@ layout: twocolumn
 
 title: deneme
 ---
+
+<div class="row">
+  <div class="column" style="background-color:#aba;">
+
  <h3>Research</h3>
  <ul>
    {% for post in site.posts %}
@@ -12,7 +16,8 @@ title: deneme
    {% endfor %}
  </ul>
 <p></p>
-
+ </div>
+ <div class="column" style="background-color:#cbc;">
  <h3>Scribbles</h3>
  <ul>
  {% for post in site.posts %}
@@ -21,6 +26,8 @@ title: deneme
      {% endif %}
    {% endfor %}
  </ul>
+ </div>
+</div>
 
 
 
