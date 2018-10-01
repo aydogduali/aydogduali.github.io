@@ -1,5 +1,6 @@
 ---
 layout: default
+categories: [english]
 ---
 
 ![a](../pics/INO_FB001_2009_SAL.gif){:height="714px" width="640px"}
