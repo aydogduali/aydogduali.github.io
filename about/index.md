@@ -45,7 +45,7 @@ Turkish, English, Italian
 - Nucleus for European Modelling of the Ocean ([NEMO](https://www.nemo-ocean.eu))
 - Finite Element Sea-Ice Ocean Model ([FESOM](https://fesom.de))
 - Data Assimilation Research Testbed ([DART](http://www.image.ucar.edu/DAReS/DART))
-- neXt Generation Sea Ice Model ([neXtSIM](https://www.nersc.no/group/sea-ice-modelling]))
+- neXt Generation Sea Ice Model ([neXtSIM](https://www.nersc.no/group/sea-ice-modelling))
 
 **Field Research**
 
