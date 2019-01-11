@@ -33,7 +33,7 @@ Turkish, English, Italian
 **Programming Skills**
 
 - Scripting on Linux/Unix Environments
-- Scientific Programming: Fortran, C++, Python, Matlab
+- Scientific Programming: Fortran, Python, Matlab
 - Parallel Computing: openmp, mpi
 - Data analysis and visualization: [Matlab](https://www.mathworks.com),
   [PyFerret](https://ferret.pmel.noaa.gov/Ferret/documentation/pyferret),
