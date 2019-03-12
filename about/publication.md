@@ -1,16 +1,19 @@
 ## Publications
 
-### Peer Reviewed Article 
+### Under review
+- __Aydoğdu, A.__, Carrassi, A., Guider, C. T., Jones, C. K. R. T., and Rampal, P.: *Data assimilation using adaptive, non-conservative, moving mesh models*, Nonlin. Processes Geophys. Discuss., doi:[10.5194/npg-2019-9](https://doi.org/10.5194/npg-2019-9), in review, 2019.
 
-- __Aydoğdu, A.__, Pinardi, N., Özsoy, E., Danabasoglu, G., Gürses, Ö., and Karspeck, A.: Circulation of the Turkish Straits System under interannual atmospheric forcing, Ocean Sci., 14, 999-1019, doi:[10.5194/os-14-999-2018](https://doi.org/10.5194/os-14-999-2018), 2018.
+### Peer Reviewed Article
 
-- __Aydoğdu, A.__, Hoar, T. J., Vukicevic, T., Anderson, J. L., Pinardi, N., Karspeck, A., Hendricks, J., Collins, N., Macchia, F., and Ozsoy, E.: *OSSE for a sustainable marine observing network in the Sea of Marmara*, Nonlin. Processes Geophys., 25, 537-551, doi:[10.5194/npg-25-537-2018](https://doi.org/10.5194/npg-25-537-2018), 2018. 
+- __Aydoğdu, A.__, Pinardi, N., Özsoy, E., Danabasoglu, G., Gürses, Ö., and Karspeck, A.: *Circulation of the Turkish Straits System under interannual atmospheric forcing*, Ocean Sci., 14, 999-1019, doi:[10.5194/os-14-999-2018](https://doi.org/10.5194/os-14-999-2018), 2018.
+
+- __Aydoğdu, A.__, Hoar, T. J., Vukicevic, T., Anderson, J. L., Pinardi, N., Karspeck, A., Hendricks, J., Collins, N., Macchia, F., and Ozsoy, E.: *OSSE for a sustainable marine observing network in the Sea of Marmara*, Nonlin. Processes Geophys., 25, 537-551, doi:[10.5194/npg-25-537-2018](https://doi.org/10.5194/npg-25-537-2018), 2018.
 
 - __Aydoğdu, A.__, Pinardi, N., Pistoia, J., Martinelli, M., Belardinelli, A., Sparnocchia, S., *Assimilation experiments for the Fishery Observing System in the Adriatic Sea*, Journal of Marine Systems, Volume 162, October 2016, Pages 126-136, ISSN 0924-7963, doi:[10.1016/j.jmarsys.2016.03.002](http://dx.doi.org/10.1016/j.jmarsys.2016.03.002)
 
 - Sparnocchia, S., Nair, R., Petihakis, G., __Aydogdu, A.__, Dobricic, S., Farcy, P., Martinelli, M., Petersen, W., Petit de la Villeon, L., *An interlinked coastal observatory network for Europe* (2016) Journal of Operational Oceanography, Vol. 9, Iss. sup1, 2016. doi: [10.1080/1755876X.2015.1114808](http://dx.doi.org/10.1080/1755876X.2015.1114808)
 
-### Dissertations 
+### Dissertations
 
 Aydogdu, Ali. (2017). *Advanced modeling and data assimilation methods for the design of sustained marine monitoring networks* (Doctoral dissertation). Retrieved from [Venezia, Archivio Universita Ca' Foscari, Tesi Dottorato](http://dspace.unive.it/handle/10579/10343?show=full). (Italy, 2017-02-07)
 
@@ -24,7 +27,7 @@ Aydogdu, Ali. (2012). *A coupled modelling attempt of hydrodynamics and ecosyste
 Gürses, Ö., __Aydoğdu, A.__, Pinardi, N., and Özsoy, E. (2017). *A finite element modeling study of the Turkish Straits System*. In Öztürk, B. et al., editor, The Sea of Marmara - Marine Biodiversity, Fisheries, Conservations and Governance, pages 169 184. [TUDAV Publication](http://tudav.org/en/our-fields/publications/books/).
 
 <div style="float: left; clear: left">
-<iframe style="width:63px; height:70px;" src="//e.issuu.com/embed.html#8893677/56704174" frameborder="0" allowfullscreen></iframe> 
+<iframe style="width:63px; height:70px;" src="//e.issuu.com/embed.html#8893677/56704174" frameborder="0" allowfullscreen></iframe>
 </div>
 Ozsoy, E., Sofianos, S., Gertman, I., Mantziafou, A., __Aydoğdu, A.__, Georgiou, S., Tutsak, E., Lascaratos, A., Hecht, A. and Latif, M. A. *Deep-Water Variability and Interbasin Interactions in the Eastern Mediterranean Sea, in The Mediterranean Sea: Temporal Variability and Spatial Patterns* (2014) (eds G. L. E. Borzelli, M. Gacic, P. Lionello and P. Malanotte-Rizzoli), John Wiley & Sons, Inc., Oxford. doi:[10.1002/9781118847572.ch7](http://dx.doi.org/10.1002/9781118847572.ch7)
 
