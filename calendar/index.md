@@ -4,6 +4,8 @@ layout: default
 
 ###  Upcoming Activities
 
+- Visiting Scholar - [NCAR CISL Visiting Program](https://www2.cisl.ucar.edu/cisl-visitor-program). August 3 - September 3, 2019. Boulder, Colorado, USA.
+
 ###  Past Activities
 
 #### -2018-
