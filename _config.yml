@@ -6,3 +6,6 @@ permalink: /:categories/:title/
 project_page: true
 gems:
   - jekyll-seo-tag
+
+plugins:
+  - jekyll-gist

@@ -16,3 +16,7 @@ layout: mainpage
 [![](pics/soundcloud.jpeg){:height="50px" width="50px"}](http://soundcloud.com/liaydogdu) {:target="_blank"}
 [![](pics/issue.png){:height="50px" width="50px"}](http://issuu.com/aydogdu){:target="_blank_"}
 -->
+
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/liaydogdu maxwidth=500 limit=5 %}
+</div>
