@@ -1,9 +1,8 @@
 ## Publications
 
-### Under review
-- __Aydoğdu, A.__, Carrassi, A., Guider, C. T., Jones, C. K. R. T., and Rampal, P.: *Data assimilation using adaptive, non-conservative, moving mesh models*, Nonlin. Processes Geophys. Discuss., doi:[10.5194/npg-2019-9](https://doi.org/10.5194/npg-2019-9), in review, 2019.
-
 ### Peer Reviewed Article
+
+- __Aydoğdu, A.__, Carrassi, A., Guider, C. T., Jones, C. K. R. T., and Rampal, P.: *Data assimilation using adaptive, non-conservative, moving mesh models*, Nonlin. Processes Geophys. Discuss., doi:[10.5194/npg-2019-9](https://doi.org/10.5194/npg-2019-9), accepted, 2019. 
 
 - __Aydoğdu, A.__, Pinardi, N., Özsoy, E., Danabasoglu, G., Gürses, Ö., and Karspeck, A.: *Circulation of the Turkish Straits System under interannual atmospheric forcing*, Ocean Sci., 14, 999-1019, doi:[10.5194/os-14-999-2018](https://doi.org/10.5194/os-14-999-2018), 2018.
 
