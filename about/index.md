@@ -7,9 +7,7 @@ A list of publications which I have contributed can be found **[here](/about/pub
 
 A list of scientific activities which I'm involved can be found **[here](/calendar/index)**
 
-**Languages**
-
-Turkish, English, Italian
+**Languages**: Turkish, English, Italian
 
 **Education**
 
