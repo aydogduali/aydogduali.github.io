@@ -21,7 +21,9 @@ Turkish, English, Italian
 
 **Research Experience**
 
-- Post Doctoral Researcher at NERSC (Jun 2017 - present)
+- Research Scientist @CMCC (Sep 2019 - present)
+- Visiting Researcher at NCAR - Boulder (Aug 2019)
+- Post Doctoral Researcher at NERSC (Jun 2017 - Jul 2019)
 - Post Doctoral Researcher at CMCC (Sep 2016 - Jun 2017)
 - Visiting Researcher at NCAR - Boulder (Apr 2016 - Jun 2016)
 - Visiting Researcher at CMCC OceanLab - Lecce (Oct 2015 - Feb 2016)
