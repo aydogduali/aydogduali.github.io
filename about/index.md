@@ -20,16 +20,16 @@ A list of scientific activities which I'm involved can be found **[here](/calend
 **Research Experience**
 |                     |       |                      |                     |
 |---------------------|:------|:---------------------|---------------------|
-|- Research  Scientist| @CMCC | (Sep 2019 - present) ||
-|- Visiting Researcher| @NCAR | (Aug 2019)           ||
-|- PostDoc Researcher | @NERSC| (Jun 2017 - Jul 2019)||
-|- PostDoc Researcher | @CMCC | (Sep 2016 - Jun 2017)||
-|- Visiting Researcher| @NCAR | (Apr 2016 - Jun 2016)||
-|- Visiting Researcher| @CMCC | (Oct 2015 - Feb 2016)| OceanLab - Lecce|
-|- Research Assistant | @CMCC | (Mar 2013 - Sep 2013)| JERICO project|
-|- Research Assistant | @METU | (Sep 2012 - Feb 2013)| MyOcean II project|
-|- Research Assistant | @METU | (Sep 2011 - Sep 2012)| SESAME project|
-|- Research Assistant | @METU | (Sep 2009 - Sep 2011)| MyOcean project|
+| Research  Scientist| @CMCC | (Sep 2019 - present) ||
+| Visiting Researcher| @NCAR | (Aug 2019)           ||
+| PostDoc Researcher | @NERSC| (Jun 2017 - Jul 2019)||
+| PostDoc Researcher | @CMCC | (Sep 2016 - Jun 2017)||
+| Visiting Researcher| @NCAR | (Apr 2016 - Jun 2016)||
+| Visiting Researcher| @CMCC | (Oct 2015 - Feb 2016)| OceanLab - Lecce|
+| Research Assistant | @CMCC | (Mar 2013 - Sep 2013)| JERICO project|
+| Research Assistant | @METU | (Sep 2012 - Feb 2013)| MyOcean II project|
+| Research Assistant | @METU | (Sep 2011 - Sep 2012)| SESAME project|
+| Research Assistant | @METU | (Sep 2009 - Sep 2011)| MyOcean project|
 
 **Programming Skills**
 
