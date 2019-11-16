@@ -4,6 +4,7 @@ layout: default
 
 ###  Upcoming Activities
 
+- Scoping Workshop on Future Activities to Assess Impact of Various Observing Systems on Earth System Prediction. World Meteorological Organization. Geneva, Switzerland, 9-11 December 2019
 
 ###  Past Activities
 
