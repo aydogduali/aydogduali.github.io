@@ -4,11 +4,16 @@ layout: default
 
 ###  Upcoming Activities
 
-- Scoping Workshop on Future Activities to Assess Impact of Various Observing Systems on Earth System Prediction. World Meteorological Organization. Geneva, Switzerland, 9-11 December 2019
 
 ###  Past Activities
 
+#### -2020-
+
+- 4th Data Assimilation Task Team Meeting (of OceanPredict). [CERFACS](https://www.godae-oceanview.org/outreach/meetings-workshops/task-team-meetings/da-tt-meeting-2020). Toulouse, France. 20-22 January 2020.
+
 #### -2019-
+
+- Scoping Workshop on Future Activities to Assess Impact of Various Observing Systems on Earth System Prediction. World Meteorological Organization. Geneva, Switzerland, 9-11 December 2019
 
 - Lunch-time seminar at [NCAR](https://staff.ucar.edu/for-staff/daily/calendar-event/cisl-visitor-program-data-assimilation-using-adaptive-non). August 21, 2019. Boulder, USA.
 
