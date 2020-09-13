@@ -2,7 +2,7 @@
 
 ### Under Review
 
-- Sampson, C. ,Carrassi, A. , __Aydogdu, A.__, Jones, C.K.R.T,: *Ensemble Kalman filter for non-conservative moving mesh solvers with a joint physics and mesh location update*. 2020. Submitted to Quarterly Journal of Royal Meteorological Society
+- Sampson, C., Carrassi, A., __Aydogdu, A.__, Jones, C.K.R.T,: *Ensemble Kalman filter for non-conservative moving mesh solvers with a joint physics and mesh location update*. 2020. Submitted to Quarterly Journal of Royal Meteorological Society
 
 - Cheng, S., __Aydogdu, A.__, Rampal, P., Carrassi, A., Bertino, L.,: *Probabilistic forecasts of sea ice trajectories in the Arctic: impact of uncertainties in surface wind and ice cohesion*. 2020. Submitted to MDPI-Oceans
 
