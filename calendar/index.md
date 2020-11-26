@@ -9,6 +9,8 @@ layout: default
 
 #### -2020-
 
+- 9th MonGOOS [Workshop](http://www.mongoos.eu/documents/161745/192767/Agenda_MONGOOS_Workshop2020_Agenda_final.pdf/509e84dc-8059-46f8-b282-510b8ee880e5). Virtual. 24-25 November 2020. Talk on **The CMEMS Mediterranean systems latest upgrades: description and skill assessment**
+
 - 4th Data Assimilation Task Team Meeting (of OceanPredict). [CERFACS](https://www.godae-oceanview.org/outreach/meetings-workshops/task-team-meetings/da-tt-meeting-2020). Toulouse, France. 20-22 January 2020.
 
 #### -2019-
