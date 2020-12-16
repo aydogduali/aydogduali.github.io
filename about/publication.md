@@ -4,9 +4,9 @@
 
 - Sampson, C., Carrassi, A., __Aydogdu, A.__, Jones, C.K.R.T,: *Ensemble Kalman filter for non-conservative moving mesh solvers with a joint physics and mesh location update*. 2020. Submitted to Quarterly Journal of Royal Meteorological Society. Preprint available on [arXiv](https://arxiv.org/abs/2009.13670)
 
-- Cheng, S., __Aydogdu, A.__, Rampal, P., Carrassi, A., Bertino, L.,: *Probabilistic forecasts of sea ice trajectories in the Arctic: impact of uncertainties in surface wind and ice cohesion*. 2020. Submitted to MDPI-Oceans. Preprint available on [arXiv](https://arxiv.org/abs/2009.04881)
-
 ### Peer Reviewed Article
+
+- Cheng S., __Aydoğdu A.__, Rampal P., Carrassi A., Bertino L.: *Probabilistic Forecasts of Sea Ice Trajectories in the Arctic: Impact of Uncertainties in Surface Wind and Ice Cohesion*, Oceans. 2020; 1(4):326-342. doi: [10.3390/oceans1040022](https://doi.org/10.3390/oceans1040022)
 
 -  __Aydoğdu, A.__, Carrassi, A., Guider, C. T., Jones, C. K. R. T., and Rampal, P.: *Data assimilation using adaptive, non-conservative, moving mesh models*, Nonlin. Processes Geophys., 26, 175-193, doi:[10.5194/npg-26-175-2019](https://doi.org/10.5194/npg-26-175-2019), 2019.
 
