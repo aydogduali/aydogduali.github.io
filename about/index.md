@@ -5,7 +5,7 @@ layout: default
 
 <font size="+2">A list of publications which I have contributed can be found <a href="/about/publication">here</a></font>
 
-A list of scientific activities which I'm involved can be found **[here](/calendar/index)**
+<font size="+2">A list of scientific activities which I'm involved can be found <a href="/calendar/index">here</a></font>
 
 **Languages**: Turkish, English, Italian
 
