@@ -3,7 +3,7 @@ layout: default
 ---
 ![](../pics/wordcloud.png){:height="200px" width="640px"}
 
-<font size="+2">A list of publications which I have contributed can be found <a href="/about/publication">here</a></font>
+<font size="+2">A list of publications which I have contributed can be found <a href="/about/publication">here <br></a></font>
 
 <font size="+2">A list of scientific activities which I'm involved can be found <a href="/calendar/index">here</a></font>
 
