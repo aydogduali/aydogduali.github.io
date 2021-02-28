@@ -6,7 +6,7 @@
 
 ### Peer Reviewed Article
 
-- Sampson, C., Carrassi, A., __Aydogdu, A.__ and Jones, C.K. (2021), *Ensemble Kalman Filter for non‐conservative moving mesh solvers with a joint physics and mesh location update*. Q J R Meteorol Soc. Accepted Author Manuscript. doi: [10.1002/qj.3980](https://doi.org/10.1002/qj.3980) (in proof)
+- Sampson, C, Carrassi, A, __Aydoğdu, A__, Jones, CK.R.T. *Ensemble Kalman filter for nonconservative moving mesh solvers with a joint physics and mesh location update*. Q J R Meteorol Soc. 2021; 1– 23. doi: [10.1002/qj.3980](https://doi.org/10.1002/qj.3980)
 
 - Cheng S., __Aydoğdu A.__, Rampal P., Carrassi A., Bertino L.: *Probabilistic Forecasts of Sea Ice Trajectories in the Arctic: Impact of Uncertainties in Surface Wind and Ice Cohesion*, Oceans. 2020; 1(4):326-342. doi: [10.3390/oceans1040022](https://doi.org/10.3390/oceans1040022)
 
