@@ -4,8 +4,54 @@ layout: default
 
 ###  Upcoming Activities
 
+#### -2021-
+[**Research School - Mathematics of Climate Science**](https://mathclim-rwanda.sciencesconf.org). Lecturing on Data Assimilation: Coding and Experiments. 28 Jun-9 Jul 2021 Kigali ([Rwanda](https://www.cimpa.info/en/node/6474))
+
+
 
 ###  Past Activities
+
+#### -2021-
+
+- EGU21-16403 | vPICO presentations | NP5.1
+*Ensemble Kalman Filter for non-conservative moving mesh solvers with a joint physics and mesh location update*
+Christian Sampson, Alberto Carrassi, __Ali Aydogdu__, and Chris Jones
+Tue, 27 Apr, 09:35–09:37
+
+- EGU21-13531 | vPICO presentations | OS4.6
+*The new Mediterranean Sea analysis and forecasting system including tides: description and validation*
+Emanuela Clementi, Anna Chiara Goglio, __Ali Aydogdu__, Jenny Pistoia, Romain Escudier, Massimiliano Drudi, Alessandro Grandi, Antonio Mariani, Vladislav Lyubartsev, Rita Lecci, Sergio Cretí, Simona Masina, Giovanni Coppini, and Nadia Pinardi
+Wed, 28 Apr, 11:10–11:12
+
+- EGU21-11420 | vPICO presentations | OS4.6
+*A high resolution reanalysis for the Mediterranean Sea*
+Romain Escudier, Emanuela Clementi, Mohamed Omar, Andrea Cipollone, Jenny Pistoia, Massimiliano Drudi, Alessandro Grandi, Rita Lecci, __Ali Aydogdu__, Simona Masina, Giovanni Coppini, and Nadia Pinardi
+Wed, 28 Apr, 09:19–09:21
+
+- EGU21-9599 | vPICO presentations | OS4.6
+*The new Black Sea Reanalysis System within CMEMS*
+Leonardo Lima, Stefania Angela Ciliberti, __Ali Aydogdu__, Romain Escudier, Simona Masina, Diana Azevedo, Elisaveta Peneva, Salvatore Causio, Andrea Cipollone, Emanuela Clementi, Sergio Cretì, Laura Stefanizzi, Rita Lecci, Francesco Palermo, Giovanni Coppini, Nadia Pinardi, and Atanas Palazov
+Wed, 28 Apr, 09:25–09:27
+
+- EGU21-6598 | vPICO presentations | OS4.6
+*Evolution of the Black Sea Physical Analysis and Forecasting System within CMEMS*
+Stefania Angela Ciliberti, Eric Jansen, Diana Azevedo, Murat Gunduz, Mehmet Ilicak, Nadia Pinardi, Giovanni Coppini, Simona Masina, Rita Lecci, Salvatore Causio, Laura Stefanizzi, Sergio Creti', Leonardo Lima, __Ali Aydogdu__, Elisaveta Peneva, and Marius Matreata
+Wed, 28 Apr, 11:16–11:18
+
+- EGU21-5435 | vPICO presentations | OS4.6
+*The BS-MFC service and system evolutions within Copernicus Marine Service*
+Atanas Palazov, Stefania A. Ciliberti, Rita Lecci, Marilaure Gregoire, Joanna Staneva, Elisaveta Peneva, Marius Matreata, Simona Masina, Giovanni Coppini, Nadia Pinardi, Sergio Creti', Luc Vandenbulcke, Arno Behrens, Francesco Palermo, Veselka Marinova, Eric Jansen, Leonardo Lima, __Ali Aydogdu__, Nadezcha Valcheva, and Paola Agostini
+Wed, 28 Apr, 11:14–11:16
+
+- EGU21-6057 | vPICO presentations | OS2.4
+*The use of CMEMS Black Sea Physical Reanalysis (1993-2019) to understand better the Black Sea variability*
+Elisaveta Peneva, Leonardo Lima, __Ali Aydogdu__, Simona Masina, Emil Stanev, Stefania Ciliberti, Diana Azevedo, Giovanni Coppini, Atanas Palazov, Veselka Marinova, and Nadezdha Valcheva
+Mon, 26 Apr, 09:15–09:17
+
+- EGU21-5141 | vPICO presentations | CR4.3/OS4.18
+*Probabilistic Forecasts of Sea Ice Trajectories in the Arctic: Impact of Uncertainties in Surface Wind and Ice Cohesion*
+Sukun Cheng, Ali Aydoğdu, Pierre Rampal, Alberto Carrassi, and Laurent Bertino
+Fri, 30 Apr, 13:44–13:46
 
 #### -2020-
 
@@ -38,17 +84,17 @@ layout: default
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/6133214/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
-Investigating Sea-bottom Cold Water Events in the Marmara* EGU2018-13097 OS2.2 
+*Investigating Sea-bottom Cold Water Events in the Marmara* EGU2018-13097 OS2.2 
 
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/6133175/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
-Observing System Simulation Experiments in the Marmara Sea*. EGU2018-550 OS4.1
+*Observing System Simulation Experiments in the Marmara Sea*. EGU2018-550 OS4.1
 
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/6133199/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
-Turkish Straits System (TSS) Forecasting System Development for the Black Sea Monitoring and Forecasting Center (BS-MFC) of the Copernicus Marine Environment and Monitoring Service (CMEMS)* EGU2018-12024 OS4.5
+*Turkish Straits System (TSS) Forecasting System Development for the Black Sea Monitoring and Forecasting Center (BS-MFC) of the Copernicus Marine Environment and Monitoring Service (CMEMS)* EGU2018-12024 OS4.5
 
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/5821668/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
