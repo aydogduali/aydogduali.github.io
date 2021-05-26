@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 ---
 ![](../pics/wordcloud.png){:height="300px" width="100%"}
 
