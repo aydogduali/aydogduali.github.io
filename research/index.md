@@ -1,7 +1,7 @@
 ---
 layout: default 
 ---
-![](../pics/wordcloud.png){:height="300px" width="1200px"}
+![](../pics/wordcloud.png){:height="300px" width="100%"}
 
 <font size="+1">A list of publications which I have contributed can be found <a href="/research/publication">here <br></a></font>
 
