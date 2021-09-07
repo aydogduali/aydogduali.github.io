@@ -6,7 +6,9 @@
 
 ### Peer Reviewed Article
 
-- Sampson, C, Carrassi, A, __Aydoğdu, A__, Jones, CK.R.T. *Ensemble Kalman filter for nonconservative moving mesh solvers with a joint physics and mesh location update*. Q J R Meteorol Soc. 2021; 1– 23. doi: [10.1002/qj.3980](https://doi.org/10.1002/qj.3980)
+- Lima L, Ciliberti SA, __Aydoğdu A__, Masina S, Escudier R, Cipollone A, Azevedo D, Causio S, Peneva E, Lecci R, Clementi E, Jansen E, Ilicak M, Cretì S, Stefanizzi L, Palermo F and Coppini G (2021) *Climate Signals in the Black Sea From a Multidecadal Eddy-Resolving Reanalysis*. Front. Mar. Sci. 8:710973. doi: 10.3389/fmars.2021.710973
+
+- Sampson, C, Carrassi, A, __Aydoğdu, A__, Jones, C.K.R.T. *Ensemble Kalman filter for nonconservative moving mesh solvers with a joint physics and mesh location update*. Q J R Meteorol Soc. 2021; 1– 23. doi: [10.1002/qj.3980](https://doi.org/10.1002/qj.3980)
 
 - Cheng S., __Aydoğdu A.__, Rampal P., Carrassi A., Bertino L.: *Probabilistic Forecasts of Sea Ice Trajectories in the Arctic: Impact of Uncertainties in Surface Wind and Ice Cohesion*, Oceans. 2020; 1(4):326-342. doi: [10.3390/oceans1040022](https://doi.org/10.3390/oceans1040022)
 
