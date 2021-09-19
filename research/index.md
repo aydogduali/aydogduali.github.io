@@ -7,7 +7,6 @@ layout: default
 
 <font size="+1">A list of scientific activities which I'm involved can be found <a href="/calendar/index">here</a></font>
 
-<font size="-1">
 **Research Experience**
 
 |                      |       |                      |                     |
@@ -22,7 +21,6 @@ layout: default
 | Research Assistant   | @METU | (Sep 2012 - Feb 2013)| MyOcean II project|
 | Research Assistant   | @METU | (Sep 2011 - Sep 2012)| SESAME project|
 | Research Assistant   | @METU | (Sep 2009 - Sep 2011)| MyOcean project|
-</font>
 
 **Education**
 
