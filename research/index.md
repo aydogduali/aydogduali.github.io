@@ -9,18 +9,18 @@ layout: default
 
 **Research Experience**
 
-|                      |       |                      |                     |
-|----------------------|:------|:---------------------|---------------------|
-| Research  Scientist  | @CMCC | (Sep 2019 - present) ||
-| Visiting             | @NCAR | (Aug 2019)           ||
-| PostDoc              | @NERSC| (Jun 2017 - Jul 2019)||
-| PostDoc              | @CMCC | (Sep 2016 - Jun 2017)||
-| Visiting             | @NCAR | (Apr 2016 - Jun 2016)||
-| Visiting             | @CMCC | (Oct 2015 - Feb 2016)| OceanLab - Lecce|
-| Research Assistant   | @CMCC | (Mar 2013 - Sep 2013)| JERICO project|
-| Research Assistant   | @METU | (Sep 2012 - Feb 2013)| MyOcean II project|
-| Research Assistant   | @METU | (Sep 2011 - Sep 2012)| SESAME project|
-| Research Assistant   | @METU | (Sep 2009 - Sep 2011)| MyOcean project|
+| POSITION             | INSTITUTION |  PERIOD              |   PROJECT           |
+|----------------------|:------------|:---------------------|---------------------|
+| Research  Scientist  | @CMCC       | (Sep 2019 - present) | CMEMS MED-MFC BS-MFC EuroSea SASIP|
+| Visiting             | @NCAR       | (Aug 2019)           | CISL Visitor Program|
+| PostDoc              | @NERSC      | (Jun 2017 - Jul 2019)| REDDA |
+| PostDoc              | @CMCC       | (Sep 2016 - Jun 2017)||
+| Visiting             | @NCAR       | (Apr 2016 - Jun 2016)| CISL Graduate Visitor|
+| Visiting             | @CMCC       | (Oct 2015 - Feb 2016)| OceanLab - Lecce|
+| Research Assistant   | @CMCC       | (Mar 2013 - Sep 2013)| JERICO project|
+| Research Assistant   | @METU       | (Sep 2012 - Feb 2013)| MyOcean II project|
+| Research Assistant   | @METU       | (Sep 2011 - Sep 2012)| SESAME project|
+| Research Assistant   | @METU       | (Sep 2009 - Sep 2011)| MyOcean project|
 
 **Education**
 
