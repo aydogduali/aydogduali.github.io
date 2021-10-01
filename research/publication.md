@@ -6,7 +6,7 @@
 
 ### Peer Reviewed Article
 
-- Conti G., Aydogdu A., Gualdi S., Navarra A., Tribbia J. (2021) On the physical nudging equations. CLDY accepted
+- Conti, G., Aydoğdu, A., Gualdi, S. et al. On the physical nudging equations. Clim Dyn (2021). https://doi.org/10.1007/s00382-021-05972-w
 
 - Bonaduce A, Cipollone A, Johannessen JA, Staneva J, Raj RP and __Aydogdu A__ (2021) *Ocean Mesoscale Variability: A Case Study on the Mediterranean Sea From a Re-Analysis Perspective*. Front. Earth Sci. 9:724879. doi: [10.3389/feart.2021.724879](https://doi.org/10.3389/feart.2021.724879)
 
