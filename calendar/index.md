@@ -2,7 +2,11 @@
 layout: default
 ---
 
-###  Upcoming Activities
+###  Upcoming Events
+
+#### -2021-
+
+###  Past Activities
 
 #### -2021-
 
@@ -11,10 +15,6 @@ layout: default
 - [**Research School - Mathematics of Climate Science**](https://mathclim-rwanda.sciencesconf.org). Lecturing on Data Assimilation: Coding and Experiments. 28 Jun-9 Jul 2021 Kigali ([Rwanda](https://www.cimpa.info/en/node/6474))
 
 - Operational Satellite Oceanography Symposium. Poster presentation on *The role of satellite observations in the BS-MFC and MED-MFC marine forecasting and reanalysis systems.* __Ali Aydogdu__, Eric Jansen, Jenny Pistoia, Leonardo Lima, Tanuja Nigam, Andrea Cipollone, Emanuela Clementi, Stefania Ciliberti, Rita Lecci, Alessandro Grandi, Massimiliano Drudi, Sergio Cretì, Laura Stefanizzi, Giovanni Coppini, Simona Masina, Nadia Pinardi. 25-27 May 2021. [Virtual Event](https://www.eumetsat.int/second-international-operational-satellite-oceanography-symposium-osos-2-25-27-may-2021).
-
-###  Past Activities
-
-#### -2021-
 
 - EGU21-16403 | vPICO presentations | NP5.1
 *Ensemble Kalman Filter for non-conservative moving mesh solvers with a joint physics and mesh location update*
