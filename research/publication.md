@@ -6,7 +6,7 @@
 
 ### Peer Reviewed Article
 
-- Ciliberti, S.A., Grégoire, M., Staneva, J., Palazov, A., Coppini, G., Lecci, R., Peneva, E., Matreata, M., Marinova, V., Masina, S., Pinardi, N., Jansen, E., Lima, L., __Aydoğdu, A.__, Creti’, S., Stefanizzi, L., Azevedo, D., Causio, S., Vandenbulcke, L., Capet, A., Meulders, C., Ivanov, E., Behrens, A., Ricker, M., Gayer, G., Palermo, F., Ilicak, M., Gunduz, M., Valcheva, N., Agostini, P. (2021) *Monitoring and Forecasting the Ocean State and Biogeochemical Processes in the Black Sea: Recent Developments in the Copernicus Marine Service.* J. Mar. Sci. Eng., 9, 1146. https://doi.org/10.3390/jmse9101146
+- Ciliberti, S.A., Grégoire, M., Staneva, J., Palazov, A., Coppini, G., Lecci, R., Peneva, E., Matreata, M., Marinova, V., Masina, S., Pinardi, N., Jansen, E., Lima, L., __Aydoğdu, A.__, Creti’, S., Stefanizzi, L., Azevedo, D., Causio, S., Vandenbulcke, L., Capet, A., Meulders, C., Ivanov, E., Behrens, A., Ricker, M., Gayer, G., Palermo, F., Ilicak, M., Gunduz, M., Valcheva, N., Agostini, P. (2021) *Monitoring and Forecasting the Ocean State and Biogeochemical Processes in the Black Sea: Recent Developments in the Copernicus Marine Service.* J. Mar. Sci. Eng., 9, 1146. doi: [10.3390/jmse9101146](https://doi.org/10.3390/jmse9101146)
 
 - Conti, G., __Aydoğdu, A.__, Gualdi, S., Navarra, A., Tribbia, J. (2021) *On the physical nudging equations*. Clim Dyn. doi: [10.1007/s00382-021-05972-w](https://doi.org/10.1007/s00382-021-05972-w)
 
