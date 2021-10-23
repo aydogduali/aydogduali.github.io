@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: large
 ---
 
 I hold a PhD in physical oceanography from the Ca’ Foscari University of Venice and
