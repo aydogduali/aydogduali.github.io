@@ -1,7 +1,7 @@
 ---
 layout: large
 ---
-![](../pics/wordcloud.png){:height="20%" width="100%"}
+![](../pics/wordcloud.png){:height="200px" width="100%"}
 
 <font size="+1">A list of publications which I have contributed can be found <a href="/research/publication">here <br></a></font>
 
