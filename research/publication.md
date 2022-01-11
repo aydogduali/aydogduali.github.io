@@ -11,11 +11,12 @@ layout: large
 
 - Escudier, R., Clementi, E., Cipollone, A., Pistoia, J., Drudi, M., Grandi, A., Lyubartsev, V., Lecci, R., __Aydogdu, A.__, Delrosso, D., Omar, M., Masina, S., Coppini, G. and Pinardi, N. (2021) *A High Resolution Reanalysis for the Mediterranean Sea*. Front. Earth Sci. 9:702285. doi: [10.3389/feart.2021.702285](https://doi.org/10.3389/feart.2021.702285)
 
+- Le Traon, P.Y., Abadie, V., Ali, A., Aouf, L., Artioli, Y., Ascione, I., Autret, E., __Aydogdu, A.__ et al., 2021. The Copernicus Marine Service from 2015 to 2021: six years of achievements Special Issue Mercator Océan Journal #57. doi : https://doi.org/10.48670/moi-cafr-n813
 - Ciliberti, S.A., Grégoire, M., Staneva, J., Palazov, A., Coppini, G., Lecci, R., Peneva, E., Matreata, M., Marinova, V., Masina, S., Pinardi, N., Jansen, E., Lima, L., __Aydoğdu, A.__, Creti’, S., Stefanizzi, L., Azevedo, D., Causio, S., Vandenbulcke, L., Capet, A., Meulders, C., Ivanov, E., Behrens, A., Ricker, M., Gayer, G., Palermo, F., Ilicak, M., Gunduz, M., Valcheva, N., Agostini, P. (2021) *Monitoring and Forecasting the Ocean State and Biogeochemical Processes in the Black Sea: Recent Developments in the Copernicus Marine Service.* J. Mar. Sci. Eng., 9, 1146. doi: [10.3390/jmse9101146](https://doi.org/10.3390/jmse9101146)
 
 - Conti, G., __Aydoğdu, A.__, Gualdi, S., Navarra, A., Tribbia, J. (2021) *On the physical nudging equations*. Clim Dyn. doi: [10.1007/s00382-021-05972-w](https://doi.org/10.1007/s00382-021-05972-w)
 
-- von Schuckmann K., Le Traon P-Y., Smith N., Pascual A., Djavidnia S., Gattuso J-P., Grégoire M., et al. (2021), *Copernicus Marine Service Ocean State Report*, Issue 5. Journal of Operational Oceanography, 14:sup1, 1-185, DOI: [10.1080/1755876X.2021.1946240](https://doi.org/10.1080/1755876X.2021.1946240)
+- Von Schuckmann K., Le Traon P-Y., Smith N., Pascual A., Djavidnia S., Gattuso J-P., Grégoire M., et al. (2021), *Copernicus Marine Service Ocean State Report*, Issue 5. Journal of Operational Oceanography, 14:sup1, 1-185, DOI: [10.1080/1755876X.2021.1946240](https://doi.org/10.1080/1755876X.2021.1946240)
 
 - Bonaduce A, Cipollone A, Johannessen JA, Staneva J, Raj RP and __Aydogdu A__ (2021) *Ocean Mesoscale Variability: A Case Study on the Mediterranean Sea From a Re-Analysis Perspective*. Front. Earth Sci. 9:724879. doi: [10.3389/feart.2021.724879](https://doi.org/10.3389/feart.2021.724879)
 
