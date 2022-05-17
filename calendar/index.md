@@ -4,9 +4,10 @@ layout: large
 
 ###  Upcoming Events
 
-#### -2021-
-
 ###  Past Activities
+
+#### -2022-
+- [**EuroSea Annual Meeting**](https://eurosea.eu/). Talk in Moving forward with EuroSea Best Practice on *Assimilation of the glider observations in the Mediterranean Sea*. 09-13 May 2022 Cadiz/Spain
 
 #### -2021-
 
