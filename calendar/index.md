@@ -7,6 +7,11 @@ layout: large
 ###  Past Activities
 
 #### -2022-
+
+- [**EuroSea/OceanPredict workshop on “Ocean Prediction and Observing System Design**](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#event-overview) [Poster](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#poster2.8)Effectiveness of an operational forecasting system to predict anomalous 2022 water formation and intense bloom event in the southeastern Mediterranean Sea. Anna Teruzzi, Ali Aydogdu, Carolina Amadio, Gianpiero Cossarini, Laura Feudale, Alessandro Grandi, Pietro Miraglio, Jenny Pistoia, Stefano Salon.  29 June - 1 July 2022. Exeter / UK
+
+- [**EuroSea/OceanPredict workshop on “Ocean Prediction and Observing System Design**](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#event-overview) [Poster](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#poster9): Leveraging the multi-system glider data assimilation experiments within EuroSea to the international level. Victor Turpin, Elisabeth Remy, Baptiste Mourre, Ali Aydogdu, Romain Escudier, Pierre Testor, Jaime Hernández-Lasheras, Nikos Zarokanellos, Brad deYoung. 29 June - 1 July 2022. Exeter / UK
+
 - [**EuroSea Annual Meeting**](https://eurosea.eu/). Talk in Moving forward with EuroSea Best Practice on *Assimilation of the glider observations in the Mediterranean Sea*. 09-13 May 2022 Cadiz/Spain
 
 #### -2021-
