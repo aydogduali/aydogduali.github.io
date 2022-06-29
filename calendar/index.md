@@ -8,6 +8,9 @@ layout: large
 
 #### -2022-
 
+- [**EuroSea/OceanPredict workshop on “Ocean Prediction and Observing System Design**](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#event-overview) [Poster: ](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#poster2.8) [Talk:]() _Assimilation of gliders in the Western Mediterranean_. Ali Aydogdu, Elisabeth Remy, Baptiste Mourre, Romain Escudier, Jaime Hernandez-Lasheras, Jenny Pistoia, Alessandro Grandi. 29 June - 1 July 2022. Exeter / UK
+
+
 - [**EuroSea/OceanPredict workshop on “Ocean Prediction and Observing System Design**](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#event-overview) [Poster: ](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#poster2.8) _Effectiveness of an operational forecasting system to predict anomalous 2022 water formation and intense bloom event in the southeastern Mediterranean Sea_. Anna Teruzzi, Ali Aydogdu, Carolina Amadio, Gianpiero Cossarini, Laura Feudale, Alessandro Grandi, Pietro Miraglio, Jenny Pistoia, Stefano Salon.  29 June - 1 July 2022. Exeter / UK
 
 - [**EuroSea/OceanPredict workshop on “Ocean Prediction and Observing System Design**](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#event-overview) [Poster: ](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#poster9): _Leveraging the multi-system glider data assimilation experiments within EuroSea to the international level_. Victor Turpin, Elisabeth Remy, Baptiste Mourre, Ali Aydogdu, Romain Escudier, Pierre Testor, Jaime Hernández-Lasheras, Nikos Zarokanellos, Brad deYoung. 29 June - 1 July 2022. Exeter / UK
