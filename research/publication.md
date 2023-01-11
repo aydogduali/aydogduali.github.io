@@ -4,9 +4,12 @@ layout: large
 ## Publications
 
 ### Under Review
-__Aydogdu, A.__, Miraglio, P., Escudier, R., Clementi, E., and Masina, S.: *The dynamical role of salinity content in the Mediterranean Sea*, State Planet Discuss. [preprint], https://doi.org/10.5194/sp-2022-11, in review, 2022.
 
-Cheng, S., Chen, Y., __Aydoğdu, A.__, Bertino, L., Carrassi, A., Rampal, P., and Jones, C. K. R. T.: *Novel Arctic sea ice data assimilation combining ensemble Kalman filter with a Lagrangian sea ice model*, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2022-627, 2022.
+- __Aydogdu, A.__, Miraglio, P., Escudier, R., Clementi, E., and Masina, S.: *The dynamical role of salinity content in the Mediterranean Sea*, State Planet Discuss. [preprint], https://doi.org/10.5194/sp-2022-11, in review, 2022.
+
+- Cheng, S., Chen, Y., __Aydoğdu, A.__, Bertino, L., Carrassi, A., Rampal, P., and Jones, C. K. R. T.: *Novel Arctic sea ice data assimilation combining ensemble Kalman filter with a Lagrangian sea ice model*, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2022-627, 2022.
+
+-  Coppini, G., Clementi, E., Cossarini, G., Salon, S., Korres, G., Ravdas, M., Lecci, R., Pistoia, J., Goglio, A. C., Drudi, M., Grandi, A., __Aydogdu, A.__, Escudier, R., Cipollone, A., Lyubartsev, V., Mariani, A., Cretì, S., Palermo, F., Scuro, M., Masina, S., Pinardi, N., Navarra, A., Delrosso, D., Teruzzi, A., Di Biagio, V., Bolzon, G., Feudale, L., Coidessa, G., Amadio, C., Brosich, A., Miró, A., Alvarez, E., Lazzari, P., Solidoro, C., Oikonomou, C., and Zacharioudaki, A.: *The Mediterranean forecasting system. Part I: evolution and performance*, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2022-1337, 2023.
 
 ### Peer Reviewed Article
 
