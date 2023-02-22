@@ -11,7 +11,7 @@ layout: large
 
 -  Coppini, G., Clementi, E., Cossarini, G., Salon, S., Korres, G., Ravdas, M., Lecci, R., Pistoia, J., Goglio, A. C., Drudi, M., Grandi, A., __Aydogdu, A.__, Escudier, R., Cipollone, A., Lyubartsev, V., Mariani, A., Cretì, S., Palermo, F., Scuro, M., Masina, S., Pinardi, N., Navarra, A., Delrosso, D., Teruzzi, A., Di Biagio, V., Bolzon, G., Feudale, L., Coidessa, G., Amadio, C., Brosich, A., Miró, A., Alvarez, E., Lazzari, P., Solidoro, C., Oikonomou, C., and Zacharioudaki, A.: *The Mediterranean forecasting system. Part I: evolution and performance*, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2022-1337, 2023.
 
-- Cipollone, A., Banerjee, D. S., Iovino, D., Aydogdu, A., and Masina, S.: Bivariate sea-ice assimilation for global ocean Analysis/Reanalysis, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-254, 2023.
+- Cipollone, A., Banerjee, D. S., Iovino, D., __Aydogdu, A.__, and Masina, S.: *Bivariate sea-ice assimilation for global ocean Analysis/Reanalysis*, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-254, 2023.
 
 ### Peer Reviewed Article
 
