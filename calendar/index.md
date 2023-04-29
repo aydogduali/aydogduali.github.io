@@ -8,11 +8,11 @@ layout: large
 
 #### -2023-
 
-- EGU23-5442 | Orals | OS2.3 Teruzzi, A., __Aydogdu, A.__, Amadio, C., Cossarini, G., Feudale, L., Grandi, A., Miraglio, P., Pistoia, J., and Salon, S.: *Anomalous 2022 deep water formation and intense bloom event in the southeastern Mediterranean Sea*, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-5442, doi:[10.5194/egusphere-egu23-5442](https://doi.org/10.5194/egusphere-egu23-5442), 2023.
+- EGU23-5442 - Orals - OS2.3 Teruzzi, A., __Aydogdu, A.__, Amadio, C., Cossarini, G., Feudale, L., Grandi, A., Miraglio, P., Pistoia, J., and Salon, S.: *Anomalous 2022 deep water formation and intense bloom event in the southeastern Mediterranean Sea*, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-5442, doi:[10.5194/egusphere-egu23-5442](https://doi.org/10.5194/egusphere-egu23-5442), 2023.
 
-- EGU23-5916 | Orals | OS4.10 __Aydogdu, A.__, Pistoia, J., Miraglio, P., Cipollone, A., Grandi, A., Drudi, M., Clementi, E., Masina, S., and Pinardi, N.: *Recent data assimilation developments in the Mediterranean Sea Analysis and Forecasting System (MedFS)*, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-5916, https://doi.org/10.5194/egusphere-egu23-5916, 2023.
+- EGU23-5916 - Orals - OS4.10 __Aydogdu, A.__, Pistoia, J., Miraglio, P., Cipollone, A., Grandi, A., Drudi, M., Clementi, E., Masina, S., and Pinardi, N.: *Recent data assimilation developments in the Mediterranean Sea Analysis and Forecasting System (MedFS)*, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-5916, https://doi.org/10.5194/egusphere-egu23-5916, 2023.
 
-- EGU23-13228 | Posters on site | OS4.11 Clementi, E., Coppini, G., Cossarini, G., Korres, G., Drudi, M., __Aydogdu, A.__, Bolzon, G., Cretí, S., Denaxa, D., Feudale, L., Goglio, A. C., Grandi, A., Lazzari, P., Lecci, R., Mariani, A., Masina, S., Oikonomou, C., Pistoia, J., Salon, S., and Teruzzi, A.: *The Copernicus ocean forecasting system for the Mediterranean Sea: description and quality assessment of recent evolutions*, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-13228, https://doi.org/10.5194/egusphere-egu23-13228, 2023.
+- EGU23-13228 - Posters on site - OS4.11 Clementi, E., Coppini, G., Cossarini, G., Korres, G., Drudi, M., __Aydogdu, A.__, Bolzon, G., Cretí, S., Denaxa, D., Feudale, L., Goglio, A. C., Grandi, A., Lazzari, P., Lecci, R., Mariani, A., Masina, S., Oikonomou, C., Pistoia, J., Salon, S., and Teruzzi, A.: *The Copernicus ocean forecasting system for the Mediterranean Sea: description and quality assessment of recent evolutions*, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-13228, https://doi.org/10.5194/egusphere-egu23-13228, 2023.
 
 #### -2022-
 
