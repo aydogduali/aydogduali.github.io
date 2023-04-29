@@ -6,6 +6,14 @@ layout: large
 
 ###  Past Activities
 
+#### -2023-
+
+- EGU23-5442 | Orals | OS2.3 Teruzzi, A., __Aydogdu, A.__, Amadio, C., Cossarini, G., Feudale, L., Grandi, A., Miraglio, P., Pistoia, J., and Salon, S.: *Anomalous 2022 deep water formation and intense bloom event in the southeastern Mediterranean Sea*, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-5442, doi:[10.5194/egusphere-egu23-5442](https://doi.org/10.5194/egusphere-egu23-5442), 2023.
+
+- EGU23-5916 | Orals | OS4.10 __Aydogdu, A.__, Pistoia, J., Miraglio, P., Cipollone, A., Grandi, A., Drudi, M., Clementi, E., Masina, S., and Pinardi, N.: *Recent data assimilation developments in the Mediterranean Sea Analysis and Forecasting System (MedFS)*, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-5916, https://doi.org/10.5194/egusphere-egu23-5916, 2023.
+
+- EGU23-13228 | Posters on site | OS4.11 Clementi, E., Coppini, G., Cossarini, G., Korres, G., Drudi, M., __Aydogdu, A.__, Bolzon, G., Cretí, S., Denaxa, D., Feudale, L., Goglio, A. C., Grandi, A., Lazzari, P., Lecci, R., Mariani, A., Masina, S., Oikonomou, C., Pistoia, J., Salon, S., and Teruzzi, A.: *The Copernicus ocean forecasting system for the Mediterranean Sea: description and quality assessment of recent evolutions*, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-13228, https://doi.org/10.5194/egusphere-egu23-13228, 2023.
+
 #### -2022-
 
 - [**EuroSea/OceanPredict workshop on “Ocean Prediction and Observing System Design**](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#event-overview) [Talk:]() _Assimilation of gliders in the Western Mediterranean_. __Ali Aydogdu__, Elisabeth Remy, Baptiste Mourre, Romain Escudier, Jaime Hernandez-Lasheras, Jenny Pistoia, Alessandro Grandi. 29 June - 1 July 2022. Exeter / UK
@@ -96,7 +104,7 @@ Fri, 30 Apr, 13:44–13:46
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/6133214/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
-*Investigating Sea-bottom Cold Water Events in the Marmara* EGU2018-13097 OS2.2 
+*Investigating Sea-bottom Cold Water Events in the Marmara* EGU2018-13097 OS2.2
 
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/6133175/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
@@ -162,7 +170,7 @@ EGU General Assembly. April 23-28, 2017. Vienna, Austria. Talk on [Numerical sim
 <br/>
 #### -2013-
 
-- Advanced School on Data Assimilation. June 24-28, 2013. Bologna, Italy. Organized by Centro Euro Mediterraneo sui Cambiamenti Climatici (CMCC) 
+- Advanced School on Data Assimilation. June 24-28, 2013. Bologna, Italy. Organized by Centro Euro Mediterraneo sui Cambiamenti Climatici (CMCC)
 
 <div style="float: left; clear: left">
 <iframe src="https://widgets.figshare.com/articles/5821635/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
@@ -177,4 +185,4 @@ COS-TT GODAE Oceanview Workshop. February 4-7, 2013. Lecce, Italy. Organized by 
 <br/>
 #### -2010-
 
-- Advanced School on Data Assimilation. June 7-11, 2010. Bologna, Italy. Organized by Centro Euro Mediterraneo sui Cambiamenti Climatici (CMCC) and Gruppo Nazionale di Oceanografia Operativa (GNOO) 
+- Advanced School on Data Assimilation. June 7-11, 2010. Bologna, Italy. Organized by Centro Euro Mediterraneo sui Cambiamenti Climatici (CMCC) and Gruppo Nazionale di Oceanografia Operativa (GNOO)
