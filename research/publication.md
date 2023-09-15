@@ -15,6 +15,10 @@ layout: large
 
 - Cheng, S., Chen, Y., __Aydoğdu, A.__, Bertino, L., Carrassi, A., Rampal, P., and Jones, C. K. R. T.: *Arctic sea ice data assimilation combining an ensemble Kalman filter with a novel Lagrangian sea ice model for the winter 2019–2020*, The Cryosphere, 17, 1735–1754, doi: [10.5194/tc-17-1735-2023](https://doi.org/10.5194/tc-17-1735-2023), 2023.
 
+- Ilicak,M., S. Causio, S. Ciliberti,G. Coppini, L. Lima, {\bf A. Aydogdu}, D. Azevedo, R. Lecci, D. U. Cetin, S. Masina, E. Peneva, M. Gunduz, N. Pinardi, 2022. The Black Sea overturning circulation and its indicator of change. Copernicus Ocean State Report, issue 6, Journal of Operational Oceanography, 15:sup1, 1-220. doi: doi.org/10.1080/1755876X.2022.20951690
+
+- Masina, S., N. Pinardi, A. Cipollone, D. S. Banerjee, V. Lyubartsev, K. von Schuckmann, L. Jackson, R. Escudier, E. Clementi, __A. Aydogdu__, D. Iovino, 2022. The Atlantic Meridional Overturning Circulation forcing the mean sea level in the Mediterranean Sea through the Gibraltar transport. Copernicus Ocean State Report, issue 6, Journal of Operational Oceanography, 15:sup1, 1-220. doi: doi.org/10.1080/1755876X.2022.2095169
+
 - Escudier, R., Clementi, E., Cipollone, A., Pistoia, J., Drudi, M., Grandi, A., Lyubartsev, V., Lecci, R., __Aydogdu, A.__, Delrosso, D., Omar, M., Masina, S., Coppini, G. and Pinardi, N. (2021) *A High Resolution Reanalysis for the Mediterranean Sea*. Front. Earth Sci. 9:702285. doi: [10.3389/feart.2021.702285](https://doi.org/10.3389/feart.2021.702285)
 
 - Le Traon, P.Y., Abadie, V., Ali, A., Aouf, L., Artioli, Y., Ascione, I., Autret, E., __Aydogdu, A.__ et al., 2021. The Copernicus Marine Service from 2015 to 2021: six years of achievements Special Issue Mercator Océan Journal #57. doi : https://doi.org/10.48670/moi-cafr-n813
