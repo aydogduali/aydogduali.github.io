@@ -5,19 +5,19 @@ layout: large
 
 ### Under Review
 
-- __Aydogdu, A.__, Miraglio, P., Escudier, R., Clementi, E., and Masina, S.: *The dynamical role of salinity content in the Mediterranean Sea*, State Planet Discuss. [preprint], https://doi.org/10.5194/sp-2022-11, proofreading, 2023.
-
 -  Coppini, G., Clementi, E., Cossarini, G., Salon, S., Korres, G., Ravdas, M., Lecci, R., Pistoia, J., Goglio, A. C., Drudi, M., Grandi, A., __Aydogdu, A.__, Escudier, R., Cipollone, A., Lyubartsev, V., Mariani, A., Cretì, S., Palermo, F., Scuro, M., Masina, S., Pinardi, N., Navarra, A., Delrosso, D., Teruzzi, A., Di Biagio, V., Bolzon, G., Feudale, L., Coidessa, G., Amadio, C., Brosich, A., Miró, A., Alvarez, E., Lazzari, P., Solidoro, C., Oikonomou, C., and Zacharioudaki, A.: *The Mediterranean forecasting system. Part I: evolution and performance*, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2022-1337, 2023.
 
 ### Peer Reviewed Article
+
+- __Aydogdu, A.__, Miraglio, P., Escudier, R., Clementi, E., and Masina, S.: *The dynamical role of upper layer salinity in the Mediterranean Sea*, in: 7th edition of the Copernicus Ocean State Report (OSR7), edited by: von Schuckmann, K., Moreira, L., Le Traon, P.-Y., Grégoire, M., Marcos, M., Staneva, J., Brasseur, P., Garric, G., Lionello, P., Karstensen, J., and Neukermans, G., Copernicus Publications, State Planet, 1-osr7, 6, https://doi.org/10.5194/sp-1-osr7-6-2023, 2023.
 
 - Cipollone, A., Banerjee, D. S., Iovino, D., __Aydogdu, A.__, and Masina, S.: Bivariate sea-ice assimilation for global-ocean analysis–reanalysis, Ocean Sci., 19, 1375–1392, https://doi.org/10.5194/os-19-1375-2023, 2023.
 
 - Cheng, S., Chen, Y., __Aydoğdu, A.__, Bertino, L., Carrassi, A., Rampal, P., and Jones, C. K. R. T.: *Arctic sea ice data assimilation combining an ensemble Kalman filter with a novel Lagrangian sea ice model for the winter 2019–2020*, The Cryosphere, 17, 1735–1754, doi: [10.5194/tc-17-1735-2023](https://doi.org/10.5194/tc-17-1735-2023), 2023.
 
-- Ilicak,M., S. Causio, S. Ciliberti,G. Coppini, L. Lima, {\bf A. Aydogdu}, D. Azevedo, R. Lecci, D. U. Cetin, S. Masina, E. Peneva, M. Gunduz, N. Pinardi, 2022. The Black Sea overturning circulation and its indicator of change. Copernicus Ocean State Report, issue 6, Journal of Operational Oceanography, 15:sup1, 1-220. doi: doi.org/10.1080/1755876X.2022.20951690
+- Ilicak,M., S. Causio, S. Ciliberti,G. Coppini, L. Lima, __A. Aydogdu__, D. Azevedo, R. Lecci, D. U. Cetin, S. Masina, E. Peneva, M. Gunduz, N. Pinardi, 2022. *The Black Sea overturning circulation and its indicator of change.* Copernicus Ocean State Report, issue 6, Journal of Operational Oceanography, 15:sup1, 1-220. doi: doi.org/10.1080/1755876X.2022.20951690
 
-- Masina, S., N. Pinardi, A. Cipollone, D. S. Banerjee, V. Lyubartsev, K. von Schuckmann, L. Jackson, R. Escudier, E. Clementi, __A. Aydogdu__, D. Iovino, 2022. The Atlantic Meridional Overturning Circulation forcing the mean sea level in the Mediterranean Sea through the Gibraltar transport. Copernicus Ocean State Report, issue 6, Journal of Operational Oceanography, 15:sup1, 1-220. doi: doi.org/10.1080/1755876X.2022.2095169
+- Masina, S., N. Pinardi, A. Cipollone, D. S. Banerjee, V. Lyubartsev, K. von Schuckmann, L. Jackson, R. Escudier, E. Clementi, __A. Aydogdu__, D. Iovino, 2022. *The Atlantic Meridional Overturning Circulation forcing the mean sea level in the Mediterranean Sea through the Gibraltar transport.* Copernicus Ocean State Report, issue 6, Journal of Operational Oceanography, 15:sup1, 1-220. doi: doi.org/10.1080/1755876X.2022.2095169
 
 - Escudier, R., Clementi, E., Cipollone, A., Pistoia, J., Drudi, M., Grandi, A., Lyubartsev, V., Lecci, R., __Aydogdu, A.__, Delrosso, D., Omar, M., Masina, S., Coppini, G. and Pinardi, N. (2021) *A High Resolution Reanalysis for the Mediterranean Sea*. Front. Earth Sci. 9:702285. doi: [10.3389/feart.2021.702285](https://doi.org/10.3389/feart.2021.702285)
 
