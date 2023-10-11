@@ -8,6 +8,9 @@ layout: large
 
 #### -2023-
 
+- [**Ocean Reanalyses Workshop of the Copernicus Marine Service**](https://marine.copernicus.eu/events/ocean-reanalyses-workshop-copernicus-marine-service) [Talk:]() _Copernicus Marine Physics
+(Regional)_ 10-12 October 2023. Toulouse / France
+
 - EGU23-5442 - Orals - OS2.3 Teruzzi, A., __Aydogdu, A.__, Amadio, C., Cossarini, G., Feudale, L., Grandi, A., Miraglio, P., Pistoia, J., and Salon, S.: *Anomalous 2022 deep water formation and intense bloom event in the southeastern Mediterranean Sea*, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-5442, doi:[10.5194/egusphere-egu23-5442](https://doi.org/10.5194/egusphere-egu23-5442), 2023.
 
 - EGU23-5916 - Orals - OS4.10 __Aydogdu, A.__, Pistoia, J., Miraglio, P., Cipollone, A., Grandi, A., Drudi, M., Clementi, E., Masina, S., and Pinardi, N.: *Recent data assimilation developments in the Mediterranean Sea Analysis and Forecasting System (MedFS)*, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-5916, https://doi.org/10.5194/egusphere-egu23-5916, 2023.
