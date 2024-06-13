@@ -6,10 +6,13 @@ layout: large
 
 ###  Past Activities
 
+#### -2024-
+
+[**International Underwater Glider Conference**](https://www.iugc2024.com) [Talk:]() _Glider observations in the Western Mediterranean Sea: their assimilation and impact assessment using four analysis and forecasting systems_ 10-14 June 2024. Gothenburg / Sweden
+
 #### -2023-
 
-- [**Ocean Reanalyses Workshop of the Copernicus Marine Service**](https://marine.copernicus.eu/events/ocean-reanalyses-workshop-copernicus-marine-service) [Talk:]() _Copernicus Marine Physics
-(Regional)_ 10-12 October 2023. Toulouse / France
+- [**Ocean Reanalyses Workshop of the Copernicus Marine Service**](https://marine.copernicus.eu/events/ocean-reanalyses-workshop-copernicus-marine-service) [Talk:]() _Copernicus Marine Physics (Regional)_ 10-12 October 2023. Toulouse / France
 
 - EGU23-5442 - Orals - OS2.3 Teruzzi, A., __Aydogdu, A.__, Amadio, C., Cossarini, G., Feudale, L., Grandi, A., Miraglio, P., Pistoia, J., and Salon, S.: *Anomalous 2022 deep water formation and intense bloom event in the southeastern Mediterranean Sea*, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-5442, doi:[10.5194/egusphere-egu23-5442](https://doi.org/10.5194/egusphere-egu23-5442), 2023.
 
