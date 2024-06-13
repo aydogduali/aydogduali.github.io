@@ -8,7 +8,7 @@ layout: large
 
 #### -2024-
 
-[**International Underwater Glider Conference**](https://www.iugc2024.com) [Talk:]() _Glider observations in the Western Mediterranean Sea: their assimilation and impact assessment using four analysis and forecasting systems_ 10-14 June 2024. Gothenburg / Sweden
+- [**International Underwater Glider Conference**](https://www.iugc2024.com) [Talk:]() _Glider observations in the Western Mediterranean Sea: their assimilation and impact assessment using four analysis and forecasting systems_ 10-14 June 2024. Gothenburg / Sweden
 
 #### -2023-
 
@@ -22,12 +22,12 @@ layout: large
 
 #### -2022-
 
-- [**EuroSea/OceanPredict workshop on “Ocean Prediction and Observing System Design**](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#event-overview) [Talk:]() _Assimilation of gliders in the Western Mediterranean_. __Ali Aydogdu__, Elisabeth Remy, Baptiste Mourre, Romain Escudier, Jaime Hernandez-Lasheras, Jenny Pistoia, Alessandro Grandi. 29 June - 1 July 2022. Exeter / UK
+- [**EuroSea/OceanPredict workshop on “Ocean Prediction and Observing System Design**](https://oceanpredict.org/archived-events/eurosea-workshops/eurosea-oceanpredict-workshop-june-2022/#section-home) [Talk:](https://oceanpredict.org/archived-events/eurosea-workshops/eurosea-oceanpredict-workshop-june-2022/#section-oral-presentations) _Assimilation of gliders in the Western Mediterranean_. __Ali Aydogdu__, Elisabeth Remy, Baptiste Mourre, Romain Escudier, Jaime Hernandez-Lasheras, Jenny Pistoia, Alessandro Grandi. 29 June - 1 July 2022. Exeter / UK
 
 
-- [**EuroSea/OceanPredict workshop on “Ocean Prediction and Observing System Design**](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#event-overview) [Poster: ](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#poster2.8) _Effectiveness of an operational forecasting system to predict anomalous 2022 water formation and intense bloom event in the southeastern Mediterranean Sea_. Anna Teruzzi, __Ali Aydogdu__, Carolina Amadio, Gianpiero Cossarini, Laura Feudale, Alessandro Grandi, Pietro Miraglio, Jenny Pistoia, Stefano Salon.  29 June - 1 July 2022. Exeter / UK
+- [**EuroSea/OceanPredict workshop on “Ocean Prediction and Observing System Design**](https://oceanpredict.org/archived-events/eurosea-workshops/eurosea-oceanpredict-workshop-2/#section-eurosea-overview) [Poster: ](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#poster2.8) _Effectiveness of an operational forecasting system to predict anomalous 2022 water formation and intense bloom event in the southeastern Mediterranean Sea_. Anna Teruzzi, __Ali Aydogdu__, Carolina Amadio, Gianpiero Cossarini, Laura Feudale, Alessandro Grandi, Pietro Miraglio, Jenny Pistoia, Stefano Salon.  29 June - 1 July 2022. Exeter / UK
 
-- [**EuroSea/OceanPredict workshop on “Ocean Prediction and Observing System Design**](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#event-overview) [Poster: ](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#poster9): _Leveraging the multi-system glider data assimilation experiments within EuroSea to the international level_. Victor Turpin, Elisabeth Remy, __Ali Aydogdu__, Baptiste Mourre, Romain Escudier, Pierre Testor, Jaime Hernández-Lasheras, Nikos Zarokanellos, Brad deYoung. 29 June - 1 July 2022. Exeter / UK
+- [**EuroSea/OceanPredict workshop on “Ocean Prediction and Observing System Design**](https://oceanpredict.org/events/eurosea-oceanpredict-workshop-on-ocean-prediction-and-observing-system-design/#event-overview) [Poster: ](https://oceanpredict.org/archived-events/eurosea-workshops/eurosea-oceanpredict-workshop-june-2022/#poster9): _Leveraging the multi-system glider data assimilation experiments within EuroSea to the international level_. Victor Turpin, Elisabeth Remy, __Ali Aydogdu__, Baptiste Mourre, Romain Escudier, Pierre Testor, Jaime Hernández-Lasheras, Nikos Zarokanellos, Brad deYoung. 29 June - 1 July 2022. Exeter / UK
 
 - [**EuroSea Annual Meeting**](https://eurosea.eu/). Talk in Moving forward with EuroSea Best Practice on *Assimilation of the glider observations in the Mediterranean Sea*. 09-13 May 2022 Cadiz/Spain
 
