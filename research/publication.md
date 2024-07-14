@@ -5,9 +5,11 @@ layout: large
 
 ### Under Review
 
-- Teruzzi, A., __Aydogdu, A.__, Amadio, C., Clementi, E., Colella, S., Di Biagio, V., Drudi, M., Fanelli, C., Feudale, L., Grandi, A., Miraglio, P., Pisano, A., Pistoia, J., Reale, M., Salon, S., Volpe, G., and Cossarini, G.: *Anomalous 2022 deep water formation and intense phytoplankton bloom in the Cretan area*, State Planet Discuss. [preprint], doi: [10.5194/sp-2023-30](https://doi.org/10.5194/sp-2023-30), in review, 2023.
+- Teruzzi, A., __Aydogdu, A.__, Amadio, C., Clementi, E., Colella, S., Di Biagio, V., Drudi, M., Fanelli, C., Feudale, L., Grandi, A., Miraglio, P., Pisano, A., Pistoia, J., Reale, M., Salon, S., Volpe, G., and Cossarini, G.: *Anomalous 2022 deep water formation and intense phytoplankton bloom in the Cretan area*, State Planet Discuss. [preprint], doi: [10.5194/sp-2023-30](https://doi.org/10.5194/sp-2023-30), accepted, 2024.
 
 ### Peer Reviewed Article
+
+- Yang, C., Bourdalle-Badie, R., Drevillon, M., Amaya, D., Aouf, L., __Aydogdu, A.__, Barton, B., Bell, M., Boyer, T., Blauw, A. and Carton, J., et. al, (2024). Gathering users and developers to shape together the next-generation ocean reanalyses: Ocean reanalyses workshop of the European Copernicus Marine Service. Bulletin of the American Meteorological Society. doi: [10.1175/BAMS-D-24-0034.1](https://doi.org/10.1175/BAMS-D-24-0034.1)
 
 - Coppini, G., Clementi, E., Cossarini, G., Salon, S., Korres, G., Ravdas, M., Lecci, R., Pistoia, J., Goglio, A. C., Drudi, M., Grandi, A., __Aydogdu, A.__, Escudier, R., Cipollone, A., Lyubartsev, V., Mariani, A., Cretì, S., Palermo, F., Scuro, M., Masina, S., Pinardi, N., Navarra, A., Delrosso, D., Teruzzi, A., Di Biagio, V., Bolzon, G., Feudale, L., Coidessa, G., Amadio, C., Brosich, A., Miró, A., Alvarez, E., Lazzari, P., Solidoro, C., Oikonomou, C., and Zacharioudaki, A.: *The Mediterranean Forecasting System – Part 1: Evolution and performance*, Ocean Sci., 19, 1483–1516, doi: [10.5194/os-19-1483-2023](https://doi.org/10.5194/os-19-1483-2023), 2023.
 
