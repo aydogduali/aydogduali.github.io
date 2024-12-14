@@ -8,6 +8,8 @@ layout: large
 
 #### -2024-
 
+- [**Symposium OP'24**](https://www.oceanpredict24.org) [Talk:](https://www.oceanpredict24.org/session/05f3362b-d23e-ef11-86c3-6045bd954b60) _Glider observations in the Western Mediterranean Sea: their assimilation and impact assessment using four analysis and forecasting systems_ 14-18 November 2024. Paris / France.
+
 - [**International Conference on Reanalysis**](https://icr6.climcore.org) [Poster:]() _Ocean Reanalysis of the Mediterranean and Black Seas: where we are and where we go_ 28 Oct. - 1 Nov. 2024. Tokyo / Japan
 
 - [**International Underwater Glider Conference**](https://www.iugc2024.com) [Talk:]() _Glider observations in the Western Mediterranean Sea: their assimilation and impact assessment using four analysis and forecasting systems_ 10-14 June 2024. Gothenburg / Sweden
