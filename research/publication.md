@@ -7,7 +7,9 @@ layout: large
 
 ### Peer Reviewed Article
 
-- __Aydogdu A__, Escudier R, Hernandez-Lasheras J, Amadio C, Pistoia J, Zarokanellos ND, Cossarini G, Remy E and Mourre B (2025) *Glider observations in the Western Mediterranean Sea: their assimilation and impact assessment using four analysis and forecasting systems*. Front. Mar. Sci. 12:1456463. doi: [10.3389/fmars.2025.1456463](https://doi.org/10.3389/fmars.2025.1456463)
+- Stefanelli, M., Jansen, E., __Aydogdu, A.__, Federico, I. and Coppini, G. (2025) Data assimilation for advanced cross-scale unstructured grid ocean modelling. Front. Mar. Sci. 12:1656879. doi: 10.3389/fmars.2025.1656879
+
+- __Aydogdu, A.__, Escudier, R., Hernandez-Lasheras, J., Amadio, C., Pistoia, J., Zarokanellos, ND., Cossarini, G., Remy, E. and Mourre, B. (2025) *Glider observations in the Western Mediterranean Sea: their assimilation and impact assessment using four analysis and forecasting systems*. Front. Mar. Sci. 12:1456463. doi: [10.3389/fmars.2025.1456463](https://doi.org/10.3389/fmars.2025.1456463)
 
 - Yang, C., Bourdalle-Badie, R., Drevillon, M., Amaya, D., Aouf, L., __Aydogdu, A.__, Barton, B., Bell, M., Boyer, T., Blauw, A. and Carton, J., et. al, (2025). *Gathering users and developers to shape together the next-generation ocean reanalyses: Ocean reanalyses workshop of the European Copernicus Marine Service*. Bulletin of the American Meteorological Society, 106(2), E419-E429. doi: [10.1175/BAMS-D-24-0034.1](https://doi.org/10.1175/BAMS-D-24-0034.1)
 
