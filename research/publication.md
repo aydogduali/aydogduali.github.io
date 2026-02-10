@@ -7,7 +7,9 @@ layout: large
 
 ### Peer Reviewed Article
 
-- Stefanelli, M., Jansen, E., __Aydogdu, A.__, Federico, I. and Coppini, G. (2025) Data assimilation for advanced cross-scale unstructured grid ocean modelling. Front. Mar. Sci. 12:1656879. doi: 10.3389/fmars.2025.1656879
+- Oddo, P., Adani, M., Carere, F., Cipollone, A., Goglio, A. C., Jansen, E., __Aydogdu, A.__, Mele, F., Epicoco, I., Pistoia, J., Clementi, E., Pinardi, N., and Masina, S.: *Implementation and evaluation of sea level operators in OceanVar2.0: an open-source oceanographic three-dimensional variational data assimilation system*, Geosci. Model Dev., 19, 423–445, https://doi.org/10.5194/gmd-19-423-2026, 2026. 
+
+- Stefanelli, M., Jansen, E., __Aydogdu, A.__, Federico, I. and Coppini, G. (2025) *Data assimilation for advanced cross-scale unstructured grid ocean modelling*. Front. Mar. Sci. 12:1656879. doi: 10.3389/fmars.2025.1656879
 
 - __Aydogdu, A.__, Escudier, R., Hernandez-Lasheras, J., Amadio, C., Pistoia, J., Zarokanellos, ND., Cossarini, G., Remy, E. and Mourre, B. (2025) *Glider observations in the Western Mediterranean Sea: their assimilation and impact assessment using four analysis and forecasting systems*. Front. Mar. Sci. 12:1456463. doi: [10.3389/fmars.2025.1456463](https://doi.org/10.3389/fmars.2025.1456463)
 
