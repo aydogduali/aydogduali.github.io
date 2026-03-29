@@ -14,7 +14,8 @@ Seas. Took part in several European projects including SESAME, MyOcean and
 JERICO as well as DASIM and REDDA in collaboration with US. Currently,
 production unit resposible of the CMEMS Black Sea MFC physics component. A
 member of the OceanPredict data assimilation task team (DA-TT) and OceanGliders
-steering team. Teaches at the Università di Bologna in data assimilation.
+steering team. Coordinates the data asimilation course at the Università di
+Bologna FRONTIERS PhD Programme.
 
 **Languages**: Turkish, English, Italian
 
