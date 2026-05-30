@@ -1,12 +1,16 @@
 ---
-layout: large
+layout: base
+title: Agenda
+description: A detailed timeline of scientific activities, conference talks, and workshops attended by Ali Aydogdu since 2010.
 ---
 
-###  Upcoming Events
+## Upcoming Events
 
-###  Past Activities
+*Check back for upcoming events.*
 
-#### -2024-
+## Past Activities
+
+### 2024
 
 - [**Symposium OP'24**](https://www.oceanpredict24.org) [Talk:](https://www.oceanpredict24.org/session/05f3362b-d23e-ef11-86c3-6045bd954b60) _Glider observations in the Western Mediterranean Sea: their assimilation and impact assessment using four analysis and forecasting systems_ 18-22 November 2024. Paris / France.
 
@@ -14,7 +18,7 @@ layout: large
 
 - [**International Underwater Glider Conference**](https://www.iugc2024.com) [Talk:]() _Glider observations in the Western Mediterranean Sea: their assimilation and impact assessment using four analysis and forecasting systems_ 10-14 June 2024. Gothenburg / Sweden
 
-#### -2023-
+### 2023
 
 - [**Ocean Reanalyses Workshop of the Copernicus Marine Service**](https://marine.copernicus.eu/events/ocean-reanalyses-workshop-copernicus-marine-service) [Talk:]() _Copernicus Marine Physics (Regional)_ 10-12 October 2023. Toulouse / France
 
@@ -24,7 +28,7 @@ layout: large
 
 - EGU23-13228 - Posters on site - OS4.11 Clementi, E., Coppini, G., Cossarini, G., Korres, G., Drudi, M., __Aydogdu, A.__, Bolzon, G., Cretí, S., Denaxa, D., Feudale, L., Goglio, A. C., Grandi, A., Lazzari, P., Lecci, R., Mariani, A., Masina, S., Oikonomou, C., Pistoia, J., Salon, S., and Teruzzi, A.: *The Copernicus ocean forecasting system for the Mediterranean Sea: description and quality assessment of recent evolutions*, EGU General Assembly 2023, Vienna, Austria, 24–28 Apr 2023, EGU23-13228, https://doi.org/10.5194/egusphere-egu23-13228, 2023.
 
-#### -2022-
+### 2022
 
 - [**EuroSea/OceanPredict workshop on “Ocean Prediction and Observing System Design**](https://oceanpredict.org/archived-events/eurosea-workshops/eurosea-oceanpredict-workshop-june-2022/#section-home) [Talk:](https://oceanpredict.org/archived-events/eurosea-workshops/eurosea-oceanpredict-workshop-june-2022/#section-oral-presentations) _Assimilation of gliders in the Western Mediterranean_. __Ali Aydogdu__, Elisabeth Remy, Baptiste Mourre, Romain Escudier, Jaime Hernandez-Lasheras, Jenny Pistoia, Alessandro Grandi. 29 June - 1 July 2022. Exeter / UK
 
@@ -35,7 +39,7 @@ layout: large
 
 - [**EuroSea Annual Meeting**](https://eurosea.eu/). Talk in Moving forward with EuroSea Best Practice on *Assimilation of the glider observations in the Mediterranean Sea*. 09-13 May 2022 Cadiz/Spain
 
-#### -2021-
+### 2021
 
 - [**Joint WCRP-WWRP Symposium on Data Assimilation and Reanalysis**](https://symp-bonn2021.sciencesconf.org/). Talk on *A high resolution reanalysis for the Mediterranean Sea*. 13-17 Sep 2021 Bonn/Virtual
 
@@ -83,13 +87,13 @@ Mon, 26 Apr, 09:15–09:17
 Sukun Cheng, Ali Aydoğdu, Pierre Rampal, Alberto Carrassi, and Laurent Bertino
 Fri, 30 Apr, 13:44–13:46
 
-#### -2020-
+### 2020
 
 - 9th MonGOOS [Workshop](http://www.mongoos.eu/documents/161745/192767/Agenda_MONGOOS_Workshop2020_Agenda_final.pdf/509e84dc-8059-46f8-b282-510b8ee880e5). Virtual. 24-25 November 2020. Talk on **The CMEMS Mediterranean systems latest upgrades: description and skill assessment**
 
 - 4th Data Assimilation Task Team Meeting (of OceanPredict). [CERFACS](https://www.godae-oceanview.org/outreach/meetings-workshops/task-team-meetings/da-tt-meeting-2020). Toulouse, France. 20-22 January 2020.
 
-#### -2019-
+### 2019
 
 - Scoping Workshop on Future Activities to Assess Impact of Various Observing Systems on Earth System Prediction. World Meteorological Organization. Geneva, Switzerland, 9-11 December 2019
 
@@ -97,7 +101,7 @@ Fri, 30 Apr, 13:44–13:46
 
 - Visiting Scholar - [NCAR CISL Visiting Program](https://www2.cisl.ucar.edu/cisl-visitor-program). August 3 - September 3, 2019. Boulder, Colorado, USA.
 
-#### -2018-
+### 2018
 
 - Data Assimilation Meetings at [DARC](http://www.met.reading.ac.uk/~darc/meetings). June 6, 2018. Reading, UK.
 
@@ -111,88 +115,81 @@ Fri, 30 Apr, 13:44–13:46
 
     - *Impact of rheology on probabilistic forecasts of sea ice trajectories: application for search and rescue operations in the Arctic* EGU2018-8320 CR6.1
 
-<div style="float: left; clear: left">
+<div class="float-left-clear">
 <iframe src="https://widgets.figshare.com/articles/6133214/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
 *Investigating Sea-bottom Cold Water Events in the Marmara* EGU2018-13097 OS2.2
 
-<div style="float: left; clear: left">
+<div class="float-left-clear">
 <iframe src="https://widgets.figshare.com/articles/6133175/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
 *Observing System Simulation Experiments in the Marmara Sea*. EGU2018-550 OS4.1
 
-<div style="float: left; clear: left">
+<div class="float-left-clear">
 <iframe src="https://widgets.figshare.com/articles/6133199/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
 *Turkish Straits System (TSS) Forecasting System Development for the Black Sea Monitoring and Forecasting Center (BS-MFC) of the Copernicus Marine Environment and Monitoring Service (CMEMS)* EGU2018-12024 OS4.5
 
-<div style="float: left; clear: left">
+<div class="float-left-clear">
 <iframe src="https://widgets.figshare.com/articles/5821668/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
 [Arctic Frontiers 2018](https://www.arcticfrontiers.com/program/session/?id=S023). January 21-25, 2018. Tromso, Norway. Talk on **Towards ensemble forecasting and data assimilation in the Arctic using a Lagrangian sea-ice model**
 
-<div style="float: left; clear: left">
+<div class="float-left-clear">
 <iframe src="https://widgets.figshare.com/articles/5822082/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
 Bjerknes Center for Climate Research Annual Meeting. January 8-10, 2018. Geilo, Norway. Poster presentation on **Ensemble Data Assimilation using Adaptive Moving Mesh**
 
 
-<br/>
-#### -2017-
-<div style="float: left; clear: left">
+### 2017
+<div class="float-left-clear">
 <iframe src="https://widgets.figshare.com/articles/5821659/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
 [8th International Workshop on Sea Ice Modelling, Data Assimilation and Verification](https://events.nersc.no/8th-international-workshop-sea-ice-modelling-data-assimilation-and-verification). November 1-3, 2017. Bergen, Norway. Talk on **Probabilistic forecast and data assimilation using Lagrangian adaptive mesh models**
 
 
-<div style="float: left; clear: left">
+<div class="float-left-clear">
 <iframe src="https://widgets.figshare.com/articles/5738487/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
 [Numerical Modeling, Predictability and Data Assimilation in Weather, Ocean and Climate: A Symposium Honoring the Legacy of Anna Trevisan](http://www.isac.cnr.it/Anna-Trevisan-Memorial-Symposium). October 17-20, 2017. Bologna, Italy. Presented posters titled as **Observing System Simulation Marmara Sea** and **Data Assimilation for Adaptive Moving Mesh Models**.
 
 - [8th EuroGOOS](http://eurogoos.imr.no) International Conference: Operational Oceanography serving sustainable marine development. October 3-5, 2017. Bergen, Norway.
 
-<div style="float: left; clear: left">
+<div class="float-left-clear">
 <iframe src="https://widgets.figshare.com/articles/5822040/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
 EGU General Assembly. April 23-28, 2017. Vienna, Austria. Talk on [Numerical simulations of the Turkish Straits System for the 2008-2013 period](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-11612.pdf).
 
-<br/>
-#### -2016-
+### 2016
 
 - 21st CESM workshop. June 20-23, 2016. Breckenridge, Colorado, USA.
 
-<br/>
-#### -2015-
+### 2015
 
 - School on Ocean Climate Modelling: Physical and Biogeochemical Dynamics of Semi- Enclosed Seas September 28 - October 1, 2015. Ankara, Turkey. Organized by ICTP
 
 - [The 47th Liege Colloquium on Marine Environmental Monitoring, Modelling and Prediction](http://modb.oce.ulg.ac.be/colloquium/2015). May 4-8, 2015. Liege, Belgium. Talk on [Assimilation Experiments for the Fishery Observing System in the Adriatic Sea](https://www.researchgate.net/publication/276069664_Assimilation_Experiments_for_the_Fishery_Observing_System_in_the_Adriatic_Sea). (invited young scientist)
 
-<br/>
-#### -2014-
+### 2014
 
-<div style="float: left; clear: left">
+<div class="float-left-clear">
 <iframe src="https://widgets.figshare.com/articles/5821602/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
  [7th EuroGOOS](http://eurogoos.eu/2014/07/21/7th-eurogoos-conference-programme-now) International Conference. 28-30 October 2014. Lisbon, Portugal. Talk on **Assimilation Experiments for the Fishery Observing System in the Adriatic Sea**
 
-<br/>
-#### -2013-
+### 2013
 
 - Advanced School on Data Assimilation. June 24-28, 2013. Bologna, Italy. Organized by Centro Euro Mediterraneo sui Cambiamenti Climatici (CMCC)
 
-<div style="float: left; clear: left">
+<div class="float-left-clear">
 <iframe src="https://widgets.figshare.com/articles/5821635/embed?show_title=0" width="60" height="60" frameborder="0"></iframe>
 </div>
 COS-TT GODAE Oceanview Workshop. February 4-7, 2013. Lecce, Italy. Organized by CMCC-Italy. Talk on [**Recent Performance of the Northern Levantine Circulation Model (NLEV), Sea Level Calibration and Applications**](https://www.godae.org/~godae-data/OceanView/Events/COSS-TT-workshop-Feb-2013/presentations/1.5-2013_GODAE-OCEANVIEW_COOS-TT-Lecce.pdf)
 
-<br/>
-#### -2011-
+### 2011
 
 - Coastal Modeling Summer School. September 19-23, 2011. La Londe, France. Organized by University of Toulon
 
-<br/>
-#### -2010-
+### 2010
 
 - Advanced School on Data Assimilation. June 7-11, 2010. Bologna, Italy. Organized by Centro Euro Mediterraneo sui Cambiamenti Climatici (CMCC) and Gruppo Nazionale di Oceanografia Operativa (GNOO)

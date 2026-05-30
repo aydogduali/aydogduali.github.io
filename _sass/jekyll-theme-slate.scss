@@ -43,9 +43,101 @@ table {
 Theme Styles
 *******************************************************************************/
 
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #000;
+  color: #fff;
+  padding: 8px;
+  z-index: 100;
+  transition: top 0.3s;
+}
+.skip-link:focus {
+  top: 0;
+}
+
+.float-left-clear {
+  float: left;
+  clear: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+/* Post list styling */
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-list li {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.post-list .post-date {
+  display: block;
+  color: #666;
+  font-size: 0.9em;
+  margin-bottom: 5px;
+}
+
+/* Video container for responsive embeds */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin: 20px 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  max-width: 840px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+nav.main-nav {
+  text-align: center;
+  font-size: 2.0em;
+  margin: 20px 0;
+}
+
+nav.main-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+nav.main-nav li {
+  margin: 0 15px;
+}
+
+@media screen and (max-width: 480px) {
+  nav.main-nav {
+    font-size: 1.2em;
+  }
+  nav.main-nav li {
+    margin: 5px 10px;
+  }
+}
+
 body {
   box-sizing: border-box;
-  color:#373737;
+  color:#222222;
   background: #212121;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
@@ -98,7 +190,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: #0056b3;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -130,7 +222,6 @@ strong {
 
 img {
   position: relative;
-  margin: 0 auto;
   max-width: 739px;
   padding: 5px;
   margin: 10px 0 10px 0;
@@ -300,6 +391,7 @@ Full-Width Styles
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
+  text-align: center;
 }
 
 #project_tagline {
@@ -308,6 +400,7 @@ Full-Width Styles
   font-weight: 300;
   background: none;
   text-shadow: #111 0px 0px 10px;
+  text-align: center;
 }
 
 #downloads {
@@ -357,6 +450,19 @@ Full-Width Styles
 
 #main_content {
   padding-top: 40px;
+  max-width: 800px;
+  font-size: 1.1em;
+  text-align: justify;
+  margin: 0 auto;
+}
+
+/* Homepage centered content */
+.homepage-content {
+  text-align: center;
+}
+
+.homepage-content img {
+  margin: 5px;
 }
 
 #footer_wrap {

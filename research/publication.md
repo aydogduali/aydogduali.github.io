@@ -1,11 +1,14 @@
 ---
-layout: large
+layout: base
+title: Publications
+description: Complete list of peer-reviewed articles, dissertations, book chapters, and posters by Ali Aydogdu.
 ---
-## Publications
 
-### Under Review
+## Under Review
 
-### Peer Reviewed Articles
+*No papers currently under review.*
+
+## Peer Reviewed Articles
 
 Asperti, A., Aydogdu, A., Greco, A., Merizzi, F., Miraglio, P., Tartufoli, B., Testa, A., Pinardi, N. and Oddo, P. (2026) 'Deep learning for sea surface temperature reconstruction under cloud occlusion', *Applied Ocean Research*, 170, 105038. doi: [10.1016/j.apor.2026.105038](https://doi.org/10.1016/j.apor.2026.105038).
 
