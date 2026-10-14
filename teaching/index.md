@@ -4,7 +4,11 @@ title: Teaching
 description: Educational materials and teaching activities of Ali Aydogdu.
 ---
 
-## Lectures and Courses
+## Thesis, Lectures and Courses
+
+- [Co-advisor]  Montefiori, Gian Luca  (2026) Analisi della temperatura superficiale marina da dati satellitari multimodali. [Laurea], Università di Bologna, Corso di Studio in Informatica [L-DM270](https://amslaurea.unibo.it/view/cds/CDS8009/)
+
+
 
 ### Data Assimilation Course
 
